@@ -58,6 +58,9 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - W3C Validation
   - Live Server
   - CSSTree validator
+  - Visual Studio IntelliCode
+  - Bracket Pair Colorizer
+  - JavaScript (ES6) code snippets
 
 ## Service/API
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
