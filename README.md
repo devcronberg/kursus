@@ -87,6 +87,9 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 - [Håkon Wium Lie](https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie)
 - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)
 
+## Bøger
+- [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
+
 ## Michell
 
 - Michell Cronberg
