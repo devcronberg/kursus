@@ -43,13 +43,13 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Picsum - Temp. billeder](https://picsum.photos/)
 - [Netlify - nem SPA hostning](https://www.netlify.com/)
 - [SoundBible - gratis lyde](http://soundbible.com/)
-- [Favicon - favicon baseret på teskt](https://favicon.io/favicon-generator/)
+- [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
 - [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
 - [Lorem Ipsum - tekst](https://www.lipsum.com/)
 - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
 - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
 - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
-- Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [xtensions.json fil her](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
+- Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [extensions.json](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
   - Prettier
   - Markdown all in one
   - Auto rename tag
