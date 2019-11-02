@@ -67,6 +67,14 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 - [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain)
 - [Jack St. Clair Kilby](https://en.wikipedia.org/wiki/Jack_Kilby)
 - [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) 
+- [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)
+- [Paul Allen](https://en.wikipedia.org/wiki/Paul_Allen)
+- [Steve Wozniak](https://en.wikipedia.org/wiki/Steve_Wozniak)
+- [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
+- [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+- [Henrik Frystyk Nielsen](https://en.wikipedia.org/wiki/Henrik_Frystyk_Nielsen)
+- [Håkon Wium Lie](https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie)
+- [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)
 
 ## Michell
 
