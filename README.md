@@ -20,11 +20,11 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
     - [Yet Another REST Client](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
     - [Web Developer](https://chrispederick.com/work/web-developer/)  
     - [json-formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
+    - [Copy CSS selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg)
   - [Canary](https://www.google.com/chrome/canary/)
   - [Brave](https://brave.com/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/)  
-  - [Copy CSS selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg)
-
+  
 ## Web udvikling
 - [Pixabay - gratis billede](https://pixabay.com/)
 - [Pexels - gratis billeder og video](https://www.pexels.com/)
@@ -89,7 +89,8 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 ## Bøger
 - [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
 - [CODE: The hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
-- [Hitchhiker's Guide to the Galaxy]https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
+- [Fortællingen om universet](https://www.arnoldbusck.dk/boeger/astronomi/fortaellingen-om-universet)
+- [Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
 
 ## Michell
 
