@@ -46,8 +46,6 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
   - W3C Validation
   - Live Server
   - CSSTree validator
-  
-
 
 ## Service/API
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
@@ -71,6 +69,7 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 - [George Boole](https://en.wikipedia.org/wiki/George_Boole)
 - [Allan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
+- [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
 - [Claude Elwood Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
 - [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
 - [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen)
@@ -89,6 +88,8 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 
 ## Bøger
 - [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
+- [CODE: The hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [Hitchhiker's Guide to the Galaxy]https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
 
 ## Michell
 
