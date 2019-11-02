@@ -19,6 +19,7 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
     - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
     - [Yet Another REST Client](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
     - [Web Developer](https://chrispederick.com/work/web-developer/)  
+    - [json-formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
   - [Canary](https://www.google.com/chrome/canary/)
   - [Brave](https://brave.com/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/)  
