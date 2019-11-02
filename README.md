@@ -13,6 +13,16 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
   - [Snippets MarkDown](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsmd.md)
 - [Node](https://nodejs.org/en/)
 - [AutoHotKey](https://www.autohotkey.com/)
+- Browsere
+  - [Chrome](https://www.google.com/chrome/)
+    - [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+    - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
+    - [Yet Another REST Client](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
+    - [Web Developer](https://chrispederick.com/work/web-developer/)  
+  - [Canary](https://www.google.com/chrome/canary/)
+  - [Brave](https://brave.com/)
+  - [Firefox](https://www.mozilla.org/en-US/firefox/)  
+  - [Copy CSS selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg)
 
 ## Web udvikling
 - [Pixabay - gratis billede](https://pixabay.com/)
