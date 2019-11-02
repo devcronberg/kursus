@@ -86,6 +86,10 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [IT Historie](http://ithistorie.cronberg.dk)
 - [Transistor Full Documentary](https://www.youtube.com/watch?v=U4XknGqr3Bo)
 - [The mother of all demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
+- Store danske videnskabsfolk (tilgængelig til sep 2020)
+  - [Tycho Brahe](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-tycho-brahe)
+  - [Niels Bohr](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-niels-bohr)
+  - [Ole Rømer](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk-saeson-2-2/store-danske-videnskabsfolk-ole-roemer)
 
 ## Navne
 - [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard)
