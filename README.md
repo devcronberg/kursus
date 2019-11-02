@@ -4,8 +4,15 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 
 ## Indhold
 
-- [Programmer](#Programmer)
-- [Web udvikling](#Web-udvikling)
+- [Programmer](#programmer)
+- [Web udvikling](#web-udvikling)
+- [Service/API](#serviceapi)
+- [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
+- [Historie](#historie)
+- [Navne](#navne)
+- [Bøger](#b%C3%B8ger)
+- [Diverse](#diverse)
+- [Michell](#michell)
 
 ## Programmer
 
