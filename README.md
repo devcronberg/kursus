@@ -23,6 +23,16 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
 - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
 - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
+- Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs))
+  - Prettier
+  - Markdown all in one
+  - Auto rename tag
+  - IntelliSense for CSS class names in HTML
+  - ESLint
+  - W3C Validation
+  - Live Server
+  - CSSTree validator
+  
 
 
 ## Service/API
