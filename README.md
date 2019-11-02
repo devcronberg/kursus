@@ -65,7 +65,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Jsonplaceholder](https://jsonplaceholder.typicode.com/)
 - [jsonbox.io - JSON Storage](jsonbox.io)
 - [GSX2JSON - Google Spreadsheet to JSON API service](http://gsx2json.com/)
-- [OpenWeatherMap](https://openweathermap.org/api)
+- [OpenWeatherMap](https://openweathermap.org/api) (brug venligst egen gratis APPID)
   - [Byer](https://api.openweathermap.org/data/2.5/weather?q=Odense,dk&APPID=331058fde3cb9a6d1f0751c9fd7dacf4&units=metric)
   - [Forecast](http://api.openweathermap.org/data/2.5/forecast/daily?q=Odense,dk&cnt=5&APPID=331058fde3cb9a6d1f0751c9fd7dacf4&units=metric)
 - [DAWA](https://dawa.aws.dk/)
