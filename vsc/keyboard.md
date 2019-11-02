@@ -8,3 +8,5 @@
     }
 ]
 ```
+
+Sæt eventuelt "Git: Post Commit Command" (søg efter gitpost) til sync
