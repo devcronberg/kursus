@@ -92,6 +92,9 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 - [Fortællingen om universet](https://www.arnoldbusck.dk/boeger/astronomi/fortaellingen-om-universet)
 - [Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
 
+## Diverse
+- [Stack Owerflow Developer Survey](https://insights.stackoverflow.com/survey/2019)
+
 ## Michell
 
 - Michell Cronberg
