@@ -9,8 +9,8 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 - [Visual Studio Code](https://code.visualstudio.com/)
   - [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf)
   - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
-  - [Snippets JavaScript]
-  - [Snippets MarkDown]
+  - [Snippets JavaScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsjs.md)
+  - [Snippets MarkDown](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsmd.md)
 - [Node](https://nodejs.org/en/)
 - [AutoHotKey](https://www.autohotkey.com/)
 
