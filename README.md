@@ -66,6 +66,12 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [jsonbox.io - JSON Storage](jsonbox.io)
 - [GSX2JSON - Google Spreadsheet to JSON API service](http://gsx2json.com/)
 - [OpenWeatherMap](https://openweathermap.org/api)
+- [DAWA](https://dawa.aws.dk/)
+  - [Kommuner](https://dawa.aws.dk/kommuner/)
+  - [Landsdele](https://dawa.aws.dk/landsdele/)
+  - [Postnumre](https://dawa.aws.dk/Postnumre)
+  - [Regioner](https://dawa.aws.dk/Regioner)
+  - [Byer](https://dawa.aws.dk/stednavne2?hovedtype=Bebyggelse&undertype=by)
 
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
