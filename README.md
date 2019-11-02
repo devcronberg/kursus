@@ -43,6 +43,7 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 
 - Michell Cronberg
   - Instruktør, forfatter, konsulent
-- LinkedIn: https://goo.gl/iVjaqF
-- Konsulent: http://www.mikrokonsulenterne.dk
-- T-Shirt: http://tshirt.cronberg.dk
+- [LinkedIn](https://goo.gl/iVjaqF)
+- [Nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
+- http://www.mikrokonsulenterne.dk
+- [T-Shirts](http://tshirt.cronberg.dk)
