@@ -1,6 +1,6 @@
 # Kursus
 
-Dette repository indeholder generel info relateret til mine kurser og foredrag.
+Dette repository indeholder generel info relateret til [mine](#michell) kurser og foredrag. Fejl, rettelser og tilføjelser imødeses gerne som pull requests.
 
 ## Indhold
 
