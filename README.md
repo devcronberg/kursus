@@ -45,5 +45,5 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
   - Instruktør, forfatter, konsulent
 - [LinkedIn](https://goo.gl/iVjaqF)
 - [Nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
-- http://www.mikrokonsulenterne.dk
+- [Mikrokonsulenterne](http://www.mikrokonsulenterne.dk)
 - [T-Shirts](http://tshirt.cronberg.dk)
