@@ -50,11 +50,23 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 
 ## Historie
 - [IT Historie](http://ithistorie.cronberg.dk)
+- [Transistor Full Documentary](https://www.youtube.com/watch?v=U4XknGqr3Bo)
+- [The mother of all demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
 
 ## Navne
-- [Joseph Marie Jacquard - 'væve-hulkort-maskine'](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard)
-- [Herman Hollerith 'optællings-hulkort-maskine'](https://en.wikipedia.org/wiki/Herman_Hollerith)
-- [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) - [Difference engine](https://en.wikipedia.org/wiki/Difference_engine)
+- [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard)
+- [Herman Hollerith](https://en.wikipedia.org/wiki/Herman_Hollerith)
+- [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage)
+- [George Boole](https://en.wikipedia.org/wiki/George_Boole)
+- [Allan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+- [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
+- [Claude Elwood Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
+- [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
+- [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen)
+- [William Bradford Shockley Jr](https://en.wikipedia.org/wiki/William_Shockley)
+- [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain)
+- [Jack St. Clair Kilby](https://en.wikipedia.org/wiki/Jack_Kilby)
+- [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) 
 
 ## Michell
 
