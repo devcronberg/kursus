@@ -49,18 +49,20 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
 - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
 - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
-- Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs))
+- Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [xtensions.json fil her](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
   - Prettier
   - Markdown all in one
   - Auto rename tag
   - IntelliSense for CSS class names in HTML
   - ESLint
+  - TSLint
   - W3C Validation
   - Live Server
   - CSSTree validator
   - Visual Studio IntelliCode
   - Bracket Pair Colorizer
   - JavaScript (ES6) code snippets
+  - HTMLHint
 
 ## Service/API
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
