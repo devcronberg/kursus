@@ -41,6 +41,12 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 ## Service/API
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
 - [Filltext - simpel tilfældig JSON data](http://www.filltext.com/)
+- [Jsonplaceholder](https://jsonplaceholder.typicode.com/)
+
+## Nyhedsbreve og blogs
+- [Hackernewsletter](https://hackernewsletter.com/)
+- [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
+- [Michells nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
 
 ## Michell
 
