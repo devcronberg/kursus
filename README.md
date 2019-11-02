@@ -63,6 +63,9 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
 - [Filltext - simpel tilfældig JSON data](http://www.filltext.com/)
 - [Jsonplaceholder](https://jsonplaceholder.typicode.com/)
+- [jsonbox.io - JSON Storage](jsonbox.io)
+- [GSX2JSON - Google Spreadsheet to JSON API service](http://gsx2json.com/)
+- [OpenWeatherMap](https://openweathermap.org/api)
 
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
