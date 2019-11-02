@@ -67,7 +67,9 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
+- [JavaScript Weekly](https://javascriptweekly.com/)
 - [Michells nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
+
 
 ## Historie
 - [IT Historie](http://ithistorie.cronberg.dk)
