@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "yzhang.markdown-all-in-one",
+    "formulahendry.auto-rename-tag",
+    "zignd.html-css-class-completion",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "umoxfo.vscode-w3cvalidation",
+    "ritwickdey.liveserver",
+    "smelukov.vscode-csstree",
+    "visualstudioexptteam.vscodeintellicode",
+    "coenraads.bracket-pair-colorizer",
+    "xabikos.javascriptsnippets",
+    "mkaufman.htmlhint"
+  ]
+}
