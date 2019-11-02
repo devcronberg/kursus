@@ -48,6 +48,14 @@ Dette repository indeholder generel info relateret til mine kurser og foredrag.
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
 - [Michells nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
 
+## Historie
+- [IT Historie](http://ithistorie.cronberg.dk)
+
+## Navne
+- [Joseph Marie Jacquard - 'væve-hulkort-maskine'](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard)
+- [Herman Hollerith 'optællings-hulkort-maskine'](https://en.wikipedia.org/wiki/Herman_Hollerith)
+- [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) - [Difference engine](https://en.wikipedia.org/wiki/Difference_engine)
+
 ## Michell
 
 - Michell Cronberg
