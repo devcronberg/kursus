@@ -47,6 +47,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
 - [Lorem Ipsum - tekst](https://www.lipsum.com/)
 - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
+- [W3C validator](https://validator.w3.org/)
 - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
 - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
 - Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [extensions.json](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
