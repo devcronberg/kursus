@@ -89,8 +89,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 
 ## Historie
 - [IT Historie](http://ithistorie.cronberg.dk)
-- [Transistor Full Documentary](https://www.youtube.com/watch?v=U4XknGqr3Bo)
-- [The mother of all demos](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos)
+- [Dokumentar om opfindelsen af transitoreren](https://www.youtube.com/watch?v=U4XknGqr3Bo)
+- [The mother of all demos - Douglas Engelbart (mus 32:00)](https://www.youtube.com/watch?v=yJDv-zdhzMY) ([Wikipedia](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos))
 - Store danske videnskabsfolk (tilgængelig til sep 2020)
   - [Tycho Brahe](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-tycho-brahe)
   - [Niels Bohr](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-niels-bohr)
