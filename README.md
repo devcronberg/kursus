@@ -36,7 +36,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
     - [Copy CSS selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg)
   - [Canary](https://www.google.com/chrome/canary/)
   - [Brave](https://brave.com/)
-  - [Firefox](https://www.mozilla.org/en-US/firefox/)  
+  - [Firefox](https://www.mozilla.org/en-US/firefox/) 
+- [Curl HTTP via konsol](https://curl.haxx.se/)
   
 ## Web udvikling
 - [Pixabay - gratis billede](https://pixabay.com/)
