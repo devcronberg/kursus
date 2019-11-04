@@ -25,6 +25,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Snippets MarkDown](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsmd.md)
 - [Node](https://nodejs.org/en/)
 - [AutoHotKey](https://www.autohotkey.com/)
+- [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
 - Browsere
   - [Chrome](https://www.google.com/chrome/)
     - [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
@@ -50,6 +51,9 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [W3C validator](https://validator.w3.org/)
 - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
 - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
+- [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)
+- [Electron - desktop udvikling](https://electronjs.org/)
+- [Cordovar - mobil udvikling](https://cordova.apache.org/)
 - Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [extensions.json](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
   - Prettier
   - Markdown all in one
