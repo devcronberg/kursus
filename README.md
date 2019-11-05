@@ -7,6 +7,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Programmer](#programmer)
 - [Web udvikling](#web-udvikling)
 - [Service/API](#serviceapi)
+- [C#, MVC, Console mv](#cmvcconsole-mv)
 - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
 - [Historie](#historie)
 - [Navne](#navne)
@@ -89,6 +90,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 ## C#/MVC/Console mv
 
 - [Simpel person db/service i en enkelt .cs-fil til brug i diverse kurser](https://github.com/devcronberg/RandomPeople)
+- [ASP.NET Core MVC 3.0 skabelon til VS](https://github.com/devcronberg/aspnetcore_30_vs2019_templates)
 
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
