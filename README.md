@@ -24,6 +24,20 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
   - [Snippets JavaScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsjs.md)
   - [Snippets MarkDown](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsmd.md)
+  - Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [extensions.json](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
+    - Prettier
+    - Markdown all in one
+    - Auto rename tag
+    - IntelliSense for CSS class names in HTML
+    - ESLint
+    - TSLint
+    - W3C Validation
+    - Live Server
+    - CSSTree validator
+    - Visual Studio IntelliCode
+    - Bracket Pair Colorizer
+    - JavaScript (ES6) code snippets
+    - HTMLHint  
 - [Node](https://nodejs.org/en/)
 - [AutoHotKey](https://www.autohotkey.com/)
 - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
@@ -57,20 +71,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)
 - [Electron - desktop udvikling](https://electronjs.org/)
 - [Cordova - mobil udvikling](https://cordova.apache.org/)
-- Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [extensions.json](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
-  - Prettier
-  - Markdown all in one
-  - Auto rename tag
-  - IntelliSense for CSS class names in HTML
-  - ESLint
-  - TSLint
-  - W3C Validation
-  - Live Server
-  - CSSTree validator
-  - Visual Studio IntelliCode
-  - Bracket Pair Colorizer
-  - JavaScript (ES6) code snippets
-  - HTMLHint
+
 
 ## Service/API
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
