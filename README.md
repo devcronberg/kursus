@@ -40,6 +40,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
     - HTMLHint  
 - [Node](https://nodejs.org/en/)
 - [AutoHotKey](https://www.autohotkey.com/)
+  - [Diverse scripts](https://github.com/devcronberg/kursus/tree/master/autohotkey)
 - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
 - Browsere
   - [Chrome](https://www.google.com/chrome/)
