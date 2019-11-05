@@ -86,6 +86,10 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Regioner](https://dawa.aws.dk/Regioner)
   - [Byer](https://dawa.aws.dk/stednavne2?hovedtype=Bebyggelse&undertype=by)
 
+## C#/MVC/Console mv
+
+- [Simpel person db/service i en enkelt .cs-fil til brug i diverse kurser](https://github.com/devcronberg/RandomPeople)
+
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
