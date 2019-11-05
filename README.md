@@ -39,6 +39,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Brave](https://brave.com/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/) 
 - [Curl HTTP via konsol](https://curl.haxx.se/)
+- [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
   
 ## Web udvikling
 - [Pixabay - gratis billede](https://pixabay.com/)
