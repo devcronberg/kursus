@@ -98,6 +98,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Hackernewsletter](https://hackernewsletter.com/)
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
+- [Frontend Focus](https://frontendfoc.us)
 - [Michells nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
 
 
