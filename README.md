@@ -123,7 +123,6 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
 - [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
 - [Claude Elwood Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
-- [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
 - [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen)
 - [William Bradford Shockley Jr](https://en.wikipedia.org/wiki/William_Shockley)
 - [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain)
