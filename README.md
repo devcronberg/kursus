@@ -58,7 +58,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
   
 ## Web udvikling
-- [Pixabay - gratis billede](https://pixabay.com/)
+- [Pixabay - gratis billeder](https://pixabay.com/)
 - [Pexels - gratis billeder og video](https://www.pexels.com/)
 - [Picsum - Temp. billeder](https://picsum.photos/)
 - [Netlify - nem SPA hostning](https://www.netlify.com/)
