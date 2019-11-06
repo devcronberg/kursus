@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "ms-vscode.csharp",
     "esbenp.prettier-vscode",
     "yzhang.markdown-all-in-one",
     "formulahendry.auto-rename-tag",
