@@ -97,6 +97,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Simpel person db/service i en enkelt .cs-fil til brug i diverse kurser](https://github.com/devcronberg/RandomPeople)
 - [ASP.NET Core MVC 3.0 skabelon til VS](https://github.com/devcronberg/aspnetcore_30_vs2019_templates)
 - [Simpel SQLite database til brug i ADO og EF code](https://github.com/devcronberg/undervisning-db-sqlite)
+- Visual Studio Extensions
+  [Snippet designer](https://github.com/mmanela/snippetdesigner)
 
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
