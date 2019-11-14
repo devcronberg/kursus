@@ -74,6 +74,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)
 - [Electron - desktop udvikling](https://electronjs.org/)
 - [Cordova - mobil udvikling](https://cordova.apache.org/)
+- [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
 
 
 ## Service/API
