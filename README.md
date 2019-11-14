@@ -112,6 +112,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [IT Historie](http://ithistorie.cronberg.dk)
 - [Dokumentar om opfindelsen af transitoreren](https://www.youtube.com/watch?v=U4XknGqr3Bo)
 - [The mother of all demos - Douglas Engelbart (mus 32:00)](https://www.youtube.com/watch?v=yJDv-zdhzMY) ([Wikipedia](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos))
+- [Ikonisk billede af Margaret Hamilton/MIT/Nasa](https://www.nasa.gov/feature/margaret-hamilton-apollo-software-engineer-awarded-presidential-medal-of-freedom)
 - Store danske videnskabsfolk (udsendelser fra DR tilgængelig til sep 2020)
   - [Tycho Brahe](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-tycho-brahe)
   - [Niels Bohr](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-niels-bohr)
