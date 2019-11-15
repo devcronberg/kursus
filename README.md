@@ -100,6 +100,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Simpel SQLite database til brug i ADO og EF code](https://github.com/devcronberg/undervisning-db-sqlite)
 - Visual Studio Extensions
   - [Snippet designer](https://github.com/mmanela/snippetdesigner)
+- [More LINQ](https://github.com/morelinq/MoreLINQ)
 
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
