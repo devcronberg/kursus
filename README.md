@@ -58,24 +58,33 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
   
 ## Web udvikling
-- [Pixabay - gratis billeder](https://pixabay.com/)
-- [Pexels - gratis billeder og video](https://www.pexels.com/)
-- [Burst - gratis billeder](https://burst.shopify.com/)
-- [Picsum - Temp. billeder](https://picsum.photos/)
-- [Netlify - nem SPA hostning](https://www.netlify.com/)
-- [SoundBible - gratis lyde](http://soundbible.com/)
-- [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
-- [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
-- [Lorem Ipsum - tekst](https://www.lipsum.com/)
-- [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
-- [W3C validator](https://validator.w3.org/)
-- [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
-- [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
-- [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)
-- [Electron - desktop udvikling](https://electronjs.org/)
-- [Cordova - mobil udvikling](https://cordova.apache.org/)
-- [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
-
+- Standarder
+  - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
+  - [CSS (current work)](https://www.w3.org/Style/CSS/current-work)
+  - [ECMA (2019)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+  - [WebAssembly (webassembly.org)](https://webassembly.org/)
+- Validator
+  - [HTML W3C validator](https://validator.w3.org/)
+  - [CSS W3C validator](https://jigsaw.w3.org/css-validator/)
+  - [Validity - Chrome plugin](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+- Desktop og mobil webudvikling
+  - [Electron - desktop udvikling](https://electronjs.org/)
+  - [Cordova - mobil udvikling](https://cordova.apache.org/)
+- Diverse ressourcer til web udvikling
+  - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
+  - [Pixabay - gratis billeder](https://pixabay.com/)
+  - [Pexels - gratis billeder og video](https://www.pexels.com/)
+  - [Burst - gratis billeder](https://burst.shopify.com/)
+  - [Picsum - Temp. billeder](https://picsum.photos/)
+  - [Netlify - nem SPA hostning](https://www.netlify.com/)
+  - [SoundBible - gratis lyde](http://soundbible.com/)
+  - [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
+  - [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
+  - [Lorem Ipsum - tekst](https://www.lipsum.com/)
+  - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
+  - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
+  - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
+  - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)
 
 ## Service/API
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
