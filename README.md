@@ -67,7 +67,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - Skabeloner
   - [HTML5 Boilerplate](https://html5boilerplate.com/)
   - [HTML5Up](https://html5up.net/)
-- Opgaver
+### Opgaver
   - [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
   - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
   - [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
