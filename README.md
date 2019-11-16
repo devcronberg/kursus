@@ -17,7 +17,10 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Michell](#michell)
  
 ## Web udvikling
-- Udviklingsmiljø og plugins og værktøj
+
+Diverse links relateret til web udvikling
+
+### Udviklingsmiljø og plugins og værktøj
   - [Visual Studio Code](https://code.visualstudio.com/)
     - [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf)
     - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
@@ -52,19 +55,19 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Brave](https://brave.com/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/)   
 - [Curl - HTTP via konsol](https://curl.haxx.se/)  
-- Standarder
+### Standarder
   - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
   - [CSS (current work)](https://www.w3.org/Style/CSS/current-work)
   - [ECMA (2019)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
   - [WebAssembly (webassembly.org)](https://webassembly.org/)
-- Validator
+### Validator
   - [HTML W3C validator](https://validator.w3.org/)
   - [CSS W3C validator](https://jigsaw.w3.org/css-validator/)
   - [Validity - Chrome plugin](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
-- Desktop og mobil webudvikling
+### Desktop og mobil webudvikling
   - [Electron - desktop udvikling](https://electronjs.org/)
   - [Cordova - mobil udvikling](https://cordova.apache.org/)
-- Skabeloner
+### Skabeloner
   - [HTML5 Boilerplate](https://html5boilerplate.com/)
   - [HTML5Up](https://html5up.net/)
 ### Opgaver
@@ -72,7 +75,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
   - [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
   - [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
-- Diverse ressourcer til web udvikling
+### Diverse ressourcer til web udvikling
   - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
   - [Pixabay - gratis billeder](https://pixabay.com/)
   - [Pexels - gratis billeder og video](https://www.pexels.com/)
