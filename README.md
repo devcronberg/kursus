@@ -139,6 +139,7 @@ Diverse links relateret til web udvikling
 - [AutoHotKey](https://www.autohotkey.com/)
   - [Diverse scripts](https://github.com/devcronberg/kursus/tree/master/autohotkey)
 - [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
+- [Git for Windows](https://git-scm.com/download/win)
 
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
