@@ -56,10 +56,12 @@ Diverse links relateret til web udvikling
   - [Firefox](https://www.mozilla.org/en-US/firefox/)   
 - [Curl - HTTP via konsol](https://curl.haxx.se/)  
 ### Standarder
-  - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
-  - [CSS (current work)](https://www.w3.org/Style/CSS/current-work)
-  - [ECMA (2019)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
-  - [WebAssembly (webassembly.org)](https://webassembly.org/)
+- [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
+- [CSS (current work)](https://www.w3.org/Style/CSS/current-work)
+- [ECMA (2019)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+- [WebAssembly (webassembly.org)](https://webassembly.org/)
+- [Brug eventuelt "Can I Use" for at få en ide om support](https://caniuse.com/)  
+
 ### Validator
   - [HTML W3C validator](https://validator.w3.org/)
   - [CSS W3C validator](https://jigsaw.w3.org/css-validator/)
