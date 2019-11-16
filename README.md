@@ -55,6 +55,8 @@ Diverse links relateret til web udvikling
   - [Brave](https://brave.com/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/)   
 - [Curl - HTTP via konsol](https://curl.haxx.se/)  
+- [BrowserStack - UI test](https://www.browserstack.com/)
+
 ### Standarder
 - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
 - [CSS (current work)](https://www.w3.org/Style/CSS/current-work)
@@ -79,6 +81,7 @@ Diverse links relateret til web udvikling
   - [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
   - [CSS Dinner - genial måde at lære at bruge en CSS selector](https://flukeout.github.io/)
 ### Diverse ressourcer til web udvikling
+  - [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
   - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
   - [Pixabay - gratis billeder](https://pixabay.com/)
   - [Pexels - gratis billeder og video](https://www.pexels.com/)
@@ -92,7 +95,16 @@ Diverse links relateret til web udvikling
   - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
   - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
   - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
-  - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)  
+  
+### Eksempler
+ - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
+ - [Aqarium](https://webglsamples.org/aquarium/aquarium.html)
+ - [Sol system](https://codepen.io/juliangarnier/pen/idhuG)
+ - [Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
+ - [SpinKit](https://tobiasahlin.com/spinkit/)
+ - [HoverCSS](http://ianlunn.github.io/Hover)
+ - [AnimateCSS](https://daneden.github.io/animate.css/)
+ - [Periodisk tabel](https://threejs.org/examples/css3d_periodictable.html)
 
 ## Service/API
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
