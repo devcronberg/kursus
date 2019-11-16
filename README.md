@@ -77,6 +77,7 @@ Diverse links relateret til web udvikling
   - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
   - [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
   - [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
+  - [CSS Dinner - genial måde at lære at bruge en CSS selector](https://flukeout.github.io/)
 ### Diverse ressourcer til web udvikling
   - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
   - [Pixabay - gratis billeder](https://pixabay.com/)
