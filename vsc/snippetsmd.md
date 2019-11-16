@@ -1,3 +1,4 @@
+```json
 {
   "code3": {
     "prefix": "mdcodecs",
@@ -25,3 +26,4 @@
     "description": "Billede"
   }
 }
+```
