@@ -64,6 +64,14 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - Desktop og mobil webudvikling
   - [Electron - desktop udvikling](https://electronjs.org/)
   - [Cordova - mobil udvikling](https://cordova.apache.org/)
+- Skabeloner
+  - [HTML5 Boilerplate](https://html5boilerplate.com/)
+  - [HTML5Up](https://html5up.net/)
+- Opgaver
+  - [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
+  - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
+  - [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
+  - [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
 - Diverse ressourcer til web udvikling
   - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
   - [Pixabay - gratis billeder](https://pixabay.com/)
@@ -78,12 +86,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
   - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
   - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
-  - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)
-- Opgaver
-  - [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
-  - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
-  - [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
-  - [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
+  - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)  
 
 ## Service/API
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
