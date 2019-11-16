@@ -74,6 +74,7 @@ Diverse links relateret til web udvikling
 ### Skabeloner
   - [HTML5 Boilerplate](https://html5boilerplate.com/)
   - [HTML5Up](https://html5up.net/)
+  - [Githubs .gitignore-filer](https://raw.githubusercontent.com/github/gitignore)
 ### Opgaver
   - [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
   - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
