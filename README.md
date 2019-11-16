@@ -83,11 +83,11 @@ Diverse links relateret til web udvikling
 ### Diverse ressourcer til web udvikling
   - [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
   - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
-  - [Pixabay - gratis billeder](https://pixabay.com/)
+  - [Pixabay - gratis billeder](https://pixabay.com/)  
   - [Pexels - gratis billeder og video](https://www.pexels.com/)
   - [Burst - gratis billeder](https://burst.shopify.com/)
   - [Picsum - Temp. billeder](https://picsum.photos/)
-  - [Netlify - nem SPA hostning](https://www.netlify.com/)
+  - [Google fonts](http://www.google.com/fonts)
   - [SoundBible - gratis lyde](http://soundbible.com/)
   - [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
   - [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
@@ -95,6 +95,7 @@ Diverse links relateret til web udvikling
   - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
   - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
   - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
+  - [Netlify - nem SPA hostning baseret på github](https://www.netlify.com/)
   
 ### Eksempler
  - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
