@@ -4,59 +4,18 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 
 ## Indhold
 
-- [Programmer](#programmer)
+
 - [Web udvikling](#web-udvikling)
 - [Service/API](#serviceapi)
 - [C#, MVC, Console mv](#cmvcconsole-mv)
+- [Diverse programmer](#diverse-programmer)
 - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
 - [Historie](#historie)
 - [Navne](#navne)
 - [Bøger](#b%C3%B8ger)
 - [Diverse](#diverse)
 - [Michell](#michell)
-
-## Programmer
-
-- [Visual Studio](https://visualstudio.microsoft.com/vs/) 
-  - [Resharper](https://www.jetbrains.com/resharper/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-  - [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf)
-  - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
-  - [Snippets JavaScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsjs.md)
-  - [Snippets MarkDown](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsmd.md)
-  - Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [extensions.json](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
-    - CSharp
-    - Prettier
-    - Markdown all in one
-    - Auto rename tag
-    - IntelliSense for CSS class names in HTML
-    - ESLint
-    - TSLint
-    - W3C Validation
-    - Live Server
-    - CSSTree validator
-    - Visual Studio IntelliCode
-    - Bracket Pair Colorizer
-    - JavaScript (ES6) code snippets
-    - HTMLHint  
-- [Node](https://nodejs.org/en/)
-- [AutoHotKey](https://www.autohotkey.com/)
-  - [Diverse scripts](https://github.com/devcronberg/kursus/tree/master/autohotkey)
-- [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
-- Browsere
-  - [Chrome](https://www.google.com/chrome/)
-    - [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
-    - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
-    - [Yet Another REST Client](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
-    - [Web Developer](https://chrispederick.com/work/web-developer/)  
-    - [json-formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
-    - [Copy CSS selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg)
-  - [Canary](https://www.google.com/chrome/canary/)
-  - [Brave](https://brave.com/)
-  - [Firefox](https://www.mozilla.org/en-US/firefox/) 
-- [Curl - HTTP via konsol](https://curl.haxx.se/)
-- [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
-  
+ 
 ## Web udvikling
 - Udviklingsmiljø og plugins og værktøj
   - [Visual Studio Code](https://code.visualstudio.com/)
@@ -92,6 +51,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Canary](https://www.google.com/chrome/canary/)
   - [Brave](https://brave.com/)
   - [Firefox](https://www.mozilla.org/en-US/firefox/)   
+- [Curl - HTTP via konsol](https://curl.haxx.se/)  
 - Standarder
   - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
   - [CSS (current work)](https://www.w3.org/Style/CSS/current-work)
@@ -142,13 +102,20 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Byer](https://dawa.aws.dk/stednavne2?hovedtype=Bebyggelse&undertype=by)
 
 ## C#/MVC/Console mv
-
+- [Visual Studio](https://visualstudio.microsoft.com/vs/) 
+  - [Resharper](https://www.jetbrains.com/resharper/)
 - [Simpel person db/service i en enkelt .cs-fil til brug i diverse kurser](https://github.com/devcronberg/RandomPeople)
 - [ASP.NET Core MVC 3.0 skabelon til VS](https://github.com/devcronberg/aspnetcore_30_vs2019_templates)
 - [Simpel SQLite database til brug i ADO og EF code](https://github.com/devcronberg/undervisning-db-sqlite)
 - Visual Studio Extensions
   - [Snippet designer](https://github.com/mmanela/snippetdesigner)
 - [More LINQ](https://github.com/morelinq/MoreLINQ)
+
+## Diverse programmer
+
+- [AutoHotKey](https://www.autohotkey.com/)
+  - [Diverse scripts](https://github.com/devcronberg/kursus/tree/master/autohotkey)
+- [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
 
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
