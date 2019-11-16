@@ -1,33 +1,27 @@
-# Snippet til MarkDown
-
-```javascript
 {
-	"Code JS": {
-		"prefix": "codeJS",
-		"body": [
-			"```javascript",
-			"$1",
-			"```"
-		],
-		"description": "JS Code"
-	},
-	"Code None": {
-		"prefix": "code",
-		"body": [
-			"```",
-			"$1",
-			"```"
-		],
-		"description": "Not formatet code"
-	},
-	"Code CS": {
-		"prefix": "codeCS",
-		"body": [
-			"```csharp",
-			"$1",
-			"```"
-		],
-		"description": "JS Code"
-	}
+  "code3": {
+    "prefix": "mdcodecs",
+    "body": ["```csharp", "$1", "```"],
+    "description": "C# code"
+  },
+  "code2": {
+    "prefix": "mdcodehtml",
+    "body": ["```html", "$1", "```"],
+    "description": "HTML code"
+  },
+  "code1": {
+    "prefix": "mdcodecss",
+    "body": ["```css", "$1", "```"],
+    "description": "CSS code"
+  },
+  "code4": {
+    "prefix": "mdcodeejs",
+    "body": ["```javascript", "$1", "```"],
+    "description": "js code"
+  },
+  "img": {
+    "prefix": "mdimg",
+    "body": ["<img src='http://cdn.cronberg.dk/kurser/cs/$1' height='$2' />"],
+    "description": "Billede"
+  }
 }
-```
