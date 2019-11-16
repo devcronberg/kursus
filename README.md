@@ -85,6 +85,11 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
   - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
   - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)
+- Opgaver
+  - [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
+  - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
+  - [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
+  - [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
 
 ## Service/API
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
