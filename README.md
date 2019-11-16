@@ -181,6 +181,7 @@ Diverse links relateret til web udvikling
 - [Henrik Frystyk Nielsen](https://en.wikipedia.org/wiki/Henrik_Frystyk_Nielsen)
 - [Håkon Wium Lie](https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie)
 - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)
+- [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl)
 
 ## Bøger
 - [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
