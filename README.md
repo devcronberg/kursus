@@ -41,6 +41,7 @@ Diverse links relateret til web udvikling
       - Bracket Pair Colorizer
       - JavaScript (ES6) code snippets
       - HTMLHint  
+      - W3C Validation
   - [Node](https://nodejs.org/en/)
   - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
 - Browsere
@@ -133,6 +134,12 @@ Diverse links relateret til web udvikling
 - Visual Studio Extensions
   - [Snippet designer](https://github.com/mmanela/snippetdesigner)
 - [More LINQ](https://github.com/morelinq/MoreLINQ)
+
+## Programmering og børn
+- [Micro:Bit](https://microbit.org/)
+- [AppInventor](https://appinventor.mit.edu/)
+- [Scratch](https://scratch.mit.edu/)
+- [Coding Pirates](https://codingpirates.dk/)
 
 ## Diverse programmer
 
