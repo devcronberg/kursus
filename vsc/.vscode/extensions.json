@@ -13,6 +13,7 @@
     "visualstudioexptteam.vscodeintellicode",
     "coenraads.bracket-pair-colorizer",
     "xabikos.javascriptsnippets",
-    "mkaufman.htmlhint"
+    "mkaufman.htmlhint",
+    "umoxfo.vscode-w3cvalidation"
   ]
 }
