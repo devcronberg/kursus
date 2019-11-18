@@ -8,6 +8,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Web udvikling](#web-udvikling)
 - [Service/API](#serviceapi)
 - [C#, MVC, Console mv](#cmvcconsole-mv)
+- [Programmering og børn](#programmering-og-børn)
 - [Diverse programmer](#diverse-programmer)
 - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
 - [Historie](#historie)
@@ -167,8 +168,10 @@ Diverse links relateret til web udvikling
   - [Ole Rømer](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk-saeson-2-2/store-danske-videnskabsfolk-ole-roemer)
 
 ## Navne
+
 - [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard)
 - [Herman Hollerith](https://en.wikipedia.org/wiki/Herman_Hollerith)
+- [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
 - [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage)
 - [George Boole](https://en.wikipedia.org/wiki/George_Boole)
 - [Allan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
@@ -180,6 +183,8 @@ Diverse links relateret til web udvikling
 - [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain)
 - [Jack St. Clair Kilby](https://en.wikipedia.org/wiki/Jack_Kilby)
 - [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) 
+- [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
+- [Margaret Hamilton](https://www.nasa.gov/feature/margaret-hamilton-apollo-software-engineer-awarded-presidential-medal-of-freedom)
 - [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)
 - [Paul Allen](https://en.wikipedia.org/wiki/Paul_Allen)
 - [Steve Wozniak](https://en.wikipedia.org/wiki/Steve_Wozniak)
