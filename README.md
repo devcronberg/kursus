@@ -99,6 +99,7 @@ Diverse links relateret til web udvikling
   - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
   - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
   - [Netlify - nem SPA hostning baseret på github](https://www.netlify.com/)
+  - [Flexyboxes - editor til FlexBox](https://the-echoplex.net/flexyboxes/)
   
 ### Eksempler
  - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
