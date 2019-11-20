@@ -73,7 +73,7 @@ Diverse links relateret til web udvikling
 ### Desktop og mobil webudvikling
   - [Electron - desktop udvikling](https://electronjs.org/)
   - [Cordova - mobil udvikling](https://cordova.apache.org/)
-   - [PhoneGap](https://phonegap.com/)  
+    - [PhoneGap](https://phonegap.com/)  
 
 ### Skabeloner
   - [HTML5 Boilerplate](https://html5boilerplate.com/)
