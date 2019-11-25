@@ -160,6 +160,7 @@ Diverse links relateret til web udvikling
 - [Michells nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
 - [Version2](https://www.version2.dk/)
 - [videnskab.dk](https://videnskab.dk/)
+- [Node Weekly](https://nodeweekly.com/)
 
 
 ## Historie
