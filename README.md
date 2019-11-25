@@ -158,6 +158,8 @@ Diverse links relateret til web udvikling
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Frontend Focus](https://frontendfoc.us)
 - [Michells nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
+- [Version2](https://www.version2.dk/)
+- [videnskab.dk](https://videnskab.dk/)
 
 
 ## Historie
