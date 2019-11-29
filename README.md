@@ -209,6 +209,7 @@ Diverse links relateret til web udvikling
 
 ## Diverse
 - [Stack Owerflow Developer Survey](https://insights.stackoverflow.com/survey/2019)
+- [CS Demo](https://csdemo.cronberg.dk/numbers.html) - talsystemer, porte mv
 
 ## Michell
 
