@@ -55,10 +55,11 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [CSS (current work)](https://www.w3.org/Style/CSS/current-work)
   - [CSS W3C validator](https://jigsaw.w3.org/css-validator/)
   - [HTML5Up - HTML og CSS templates](https://html5up.net/)
+  - [Brug eventuelt "Can I Use" for at få en ide om support](https://caniuse.com/)  
 - [ECMA (2019)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
   - [ES Lint](https://eslint.org/)
 - [WebAssembly (webassembly.org)](https://webassembly.org/)
-- [Brug eventuelt "Can I Use" for at få en ide om support](https://caniuse.com/)  
+
 
 ## Web udvikling
 
