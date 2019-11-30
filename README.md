@@ -98,6 +98,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [HoverCSS](http://ianlunn.github.io/Hover)
 - [AnimateCSS](https://daneden.github.io/animate.css/)
 - [Periodisk tabel](https://threejs.org/examples/css3d_periodictable.html)
+- [Blazor spil](https://github.com/AdrienTorris/awesome-blazor#games)
 
 ### Opgaver relateret til web udvikling
 - [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
@@ -132,12 +133,6 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Coding Pirates](https://codingpirates.dk/)
 - [Hour of code - DK](https://hourofcode.com/dk)
 
-## Diverse programmer
-
-- [AutoHotKey](https://www.autohotkey.com/)
-  - [Diverse scripts](https://github.com/devcronberg/kursus/tree/master/autohotkey)
-- [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
-- [Git for Windows](https://git-scm.com/download/win)
 
 ## Bøger
 - [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
@@ -154,6 +149,14 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Version2](https://www.version2.dk/)
 - [videnskab.dk](https://videnskab.dk/)
 - [Node Weekly](https://nodeweekly.com/)
+
+## Diverse programmer
+
+- [AutoHotKey](https://www.autohotkey.com/)
+  - [Diverse scripts](https://github.com/devcronberg/kursus/tree/master/autohotkey)
+- [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
+- [Git for Windows](https://git-scm.com/download/win)
+
 
 ## Historie
 - [IT Historie](http://ithistorie.cronberg.dk)
