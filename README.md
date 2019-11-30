@@ -132,11 +132,12 @@ Diverse links relateret til web udvikling
 ## C#/MVC/Console mv
 - [Visual Studio](https://visualstudio.microsoft.com/vs/) 
   - [Resharper](https://www.jetbrains.com/resharper/)
-- [Simpel person db/service i en enkelt .cs-fil til brug i diverse kurser](https://github.com/devcronberg/RandomPeople)
-- [ASP.NET Core MVC 3.0 skabelon til VS](https://github.com/devcronberg/aspnetcore_30_vs2019_templates)
-- [Simpel SQLite database til brug i ADO og EF code](https://github.com/devcronberg/undervisning-db-sqlite)
 - Visual Studio Extensions
   - [Snippet designer](https://github.com/mmanela/snippetdesigner)
+
+- [CS Scripting](https://github.com/filipw/dotnet-script)
+- [ASP.NET Core MVC 3.0 skabelon til VS](https://github.com/devcronberg/aspnetcore_30_vs2019_templates)
+- [Simpel SQLite database til brug i ADO og EF code](https://github.com/devcronberg/undervisning-db-sqlite)
 - [More LINQ](https://github.com/morelinq/MoreLINQ)
 
 ## Programmering og børn
