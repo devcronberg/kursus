@@ -49,14 +49,14 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 
 ## Standarder
 - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
- - [HTML W3C validator](https://validator.w3.org/)
- - [Validity - Chrome plugin](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
- - [HTML5 Boilerplate - HTML template](https://html5boilerplate.com/)
+  - [HTML W3C validator](https://validator.w3.org/)
+  - [Validity - Chrome plugin](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+  - [HTML5 Boilerplate - HTML template](https://html5boilerplate.com/)
 - [CSS (current work)](https://www.w3.org/Style/CSS/current-work)
- - [CSS W3C validator](https://jigsaw.w3.org/css-validator/)
- - [HTML5Up - HTML og CSS templates](https://html5up.net/)
+  - [CSS W3C validator](https://jigsaw.w3.org/css-validator/)
+  - [HTML5Up - HTML og CSS templates](https://html5up.net/)
 - [ECMA (2019)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
- - [ES Lint](https://eslint.org/)
+  - [ES Lint](https://eslint.org/)
 - [WebAssembly (webassembly.org)](https://webassembly.org/)
 - [Brug eventuelt "Can I Use" for at få en ide om support](https://caniuse.com/)  
 
