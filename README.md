@@ -144,6 +144,7 @@ Diverse links relateret til web udvikling
 - [AppInventor](https://appinventor.mit.edu/)
 - [Scratch](https://scratch.mit.edu/)
 - [Coding Pirates](https://codingpirates.dk/)
+- [Hour of code - DK](https://hourofcode.com/dk)
 
 ## Diverse programmer
 
