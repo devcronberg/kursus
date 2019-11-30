@@ -139,6 +139,12 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
 - [Git for Windows](https://git-scm.com/download/win)
 
+## Bøger
+- [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
+- [CODE: The hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [Fortællingen om universet](https://www.arnoldbusck.dk/boeger/astronomi/fortaellingen-om-universet)
+- [Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
+
 ## Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
@@ -151,6 +157,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 
 ## Historie
 - [IT Historie](http://ithistorie.cronberg.dk)
+- [computerhistory.org](https://www.computerhistory.org/timeline/)
 - [Dokumentar om opfindelsen af transitoreren](https://www.youtube.com/watch?v=U4XknGqr3Bo)
 - [The mother of all demos - Douglas Engelbart (mus 32:00)](https://www.youtube.com/watch?v=yJDv-zdhzMY) ([Wikipedia](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos))
 - [Ikonisk billede af Margaret Hamilton/MIT/Nasa](https://www.nasa.gov/feature/margaret-hamilton-apollo-software-engineer-awarded-presidential-medal-of-freedom)
@@ -159,40 +166,33 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Tycho Brahe](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-tycho-brahe)
   - [Niels Bohr](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-niels-bohr)
   - [Ole Rømer](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk-saeson-2-2/store-danske-videnskabsfolk-ole-roemer)
+- Diverse navne med links relateret til IT teknologi (primært udvikling)
+  - [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard)
+  - [Herman Hollerith](https://en.wikipedia.org/wiki/Herman_Hollerith)
+  - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
+  - [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage)
+  - [George Boole](https://en.wikipedia.org/wiki/George_Boole)
+  - [Allan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+  - [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
+  - [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
+  - [Claude Elwood Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
+  - [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen)
+  - [William Bradford Shockley Jr](https://en.wikipedia.org/wiki/William_Shockley)
+  - [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain)
+  - [Jack St. Clair Kilby](https://en.wikipedia.org/wiki/Jack_Kilby)
+  - [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) 
+  - [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
+  - [Margaret Hamilton](https://www.nasa.gov/feature/margaret-hamilton-apollo-software-engineer-awarded-presidential-medal-of-freedom)
+  - [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)
+  - [Paul Allen](https://en.wikipedia.org/wiki/Paul_Allen)
+  - [Steve Wozniak](https://en.wikipedia.org/wiki/Steve_Wozniak)
+  - [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
+  - [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+  - [Henrik Frystyk Nielsen](https://en.wikipedia.org/wiki/Henrik_Frystyk_Nielsen)
+  - [Håkon Wium Lie](https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie)
+  - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)
+  - [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl)
 
-## Navne
-
-- [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard)
-- [Herman Hollerith](https://en.wikipedia.org/wiki/Herman_Hollerith)
-- [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
-- [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage)
-- [George Boole](https://en.wikipedia.org/wiki/George_Boole)
-- [Allan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
-- [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church)
-- [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
-- [Claude Elwood Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
-- [John Bardeen](https://en.wikipedia.org/wiki/John_Bardeen)
-- [William Bradford Shockley Jr](https://en.wikipedia.org/wiki/William_Shockley)
-- [Walter Houser Brattain](https://en.wikipedia.org/wiki/Walter_Houser_Brattain)
-- [Jack St. Clair Kilby](https://en.wikipedia.org/wiki/Jack_Kilby)
-- [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart) 
-- [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper)
-- [Margaret Hamilton](https://www.nasa.gov/feature/margaret-hamilton-apollo-software-engineer-awarded-presidential-medal-of-freedom)
-- [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)
-- [Paul Allen](https://en.wikipedia.org/wiki/Paul_Allen)
-- [Steve Wozniak](https://en.wikipedia.org/wiki/Steve_Wozniak)
-- [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
-- [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
-- [Henrik Frystyk Nielsen](https://en.wikipedia.org/wiki/Henrik_Frystyk_Nielsen)
-- [Håkon Wium Lie](https://en.wikipedia.org/wiki/H%C3%A5kon_Wium_Lie)
-- [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)
-- [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl)
-
-## Bøger
-- [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
-- [CODE: The hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
-- [Fortællingen om universet](https://www.arnoldbusck.dk/boeger/astronomi/fortaellingen-om-universet)
-- [Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
 
 ## Michell
 
