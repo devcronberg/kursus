@@ -28,7 +28,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
       - JavaScript (ES6) code snippets
       - HTMLHint  
       - W3C Validation
--[Rider](https://www.jetbrains.com/rider/)
+- [Rider](https://www.jetbrains.com/rider/)
 
 ## Runtime
 - [Node](https://nodejs.org/en/)
