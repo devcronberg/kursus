@@ -134,7 +134,6 @@ Diverse links relateret til web udvikling
   - [Resharper](https://www.jetbrains.com/resharper/)
 - Visual Studio Extensions
   - [Snippet designer](https://github.com/mmanela/snippetdesigner)
-
 - [CS Scripting](https://github.com/filipw/dotnet-script)
 - [ASP.NET Core MVC 3.0 skabelon til VS](https://github.com/devcronberg/aspnetcore_30_vs2019_templates)
 - [Simpel SQLite database til brug i ADO og EF code](https://github.com/devcronberg/undervisning-db-sqlite)
@@ -169,6 +168,7 @@ Diverse links relateret til web udvikling
 - [Dokumentar om opfindelsen af transitoreren](https://www.youtube.com/watch?v=U4XknGqr3Bo)
 - [The mother of all demos - Douglas Engelbart (mus 32:00)](https://www.youtube.com/watch?v=yJDv-zdhzMY) ([Wikipedia](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos))
 - [Ikonisk billede af Margaret Hamilton/MIT/Nasa](https://www.nasa.gov/feature/margaret-hamilton-apollo-software-engineer-awarded-presidential-medal-of-freedom)
+- [Ikonisk billede](https://en.wikipedia.org/wiki/Software_bug#/media/File:H96566k.jpg) af "en bug" fra en relæ computer (MARK II) i 1946. Bug fundet af [Grace Hopper] - en af pionerne bag programmeringssprog (herunder COBOL)
 - Store danske videnskabsfolk (udsendelser fra DR tilgængelig til sep 2020)
   - [Tycho Brahe](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-tycho-brahe)
   - [Niels Bohr](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-niels-bohr)
