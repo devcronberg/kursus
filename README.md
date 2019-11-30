@@ -2,27 +2,12 @@
 
 Dette repository indeholder generel info relateret til [mine](#michell) kurser og foredrag. Fejl, rettelser og tilføjelser imødeses meget gerne.
 
-## Indhold
-
-
-- [Web udvikling](#web-udvikling)
-- [Service/API](#serviceapi)
-- [C#, MVC, Console mv](#cmvcconsole-mv)
-- [Programmering og børn](#programmering-og-børn)
-- [Diverse programmer](#diverse-programmer)
-- [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
-- [Historie](#historie)
-- [Navne](#navne)
-- [Bøger](#b%C3%B8ger)
-- [Diverse](#diverse)
-- [Michell](#michell)
- 
-## Web udvikling
-
-Diverse links relateret til web udvikling
-
-### Udviklingsmiljø og plugins og værktøj
-  - [Visual Studio Code](https://code.visualstudio.com/)
+## Udviklingsmijø og plugins/extensions
+- [Visual Studio](https://visualstudio.microsoft.com/vs/) 
+ - Visual Studio Extensions
+  - [Resharper](https://www.jetbrains.com/resharper/)
+  - [Snippet designer](https://github.com/mmanela/snippetdesigner)
+- [Visual Studio Code](https://code.visualstudio.com/)
     - [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf)
     - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
     - [Snippets JavaScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsjs.md)
@@ -43,77 +28,84 @@ Diverse links relateret til web udvikling
       - JavaScript (ES6) code snippets
       - HTMLHint  
       - W3C Validation
-  - [Node](https://nodejs.org/en/)
-  - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
-- Browsere
-  - [Chrome](https://www.google.com/chrome/)
-    - [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
-    - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
-    - [Yet Another REST Client](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
-    - [Web Developer](https://chrispederick.com/work/web-developer/)  
-    - [json-formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
-    - [Copy CSS selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg)
-  - [Canary](https://www.google.com/chrome/canary/)
-  - [Brave](https://brave.com/)
-  - [Firefox](https://www.mozilla.org/en-US/firefox/)   
-- [Curl - HTTP via konsol](https://curl.haxx.se/)  
-- [BrowserStack - UI test](https://www.browserstack.com/)
+-[Rider](https://www.jetbrains.com/rider/)
 
-### Standarder
+## Runtime
+- [Node](https://nodejs.org/en/)
+- [.NET Core](https://dotnet.microsoft.com/download)
+
+## Browsere
+- [Chrome](https://www.google.com/chrome/)
+  - [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+  - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
+  - [Yet Another REST Client](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
+  - [Web Developer](https://chrispederick.com/work/web-developer/)  
+  - [json-formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
+  - [Copy CSS selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg)
+- [Canary](https://www.google.com/chrome/canary/)
+- [Brave](https://brave.com/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/)   
+- [Microsoft Edge](https://www.microsoft.com/da-dk/windows/microsoft-edge)   
+
+## Standarder
 - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
+ - [HTML W3C validator](https://validator.w3.org/)
+ - [Validity - Chrome plugin](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
+ - [HTML5 Boilerplate - HTML template](https://html5boilerplate.com/)
 - [CSS (current work)](https://www.w3.org/Style/CSS/current-work)
+ - [CSS W3C validator](https://jigsaw.w3.org/css-validator/)
+ - [HTML5Up - HTML og CSS templates](https://html5up.net/)
 - [ECMA (2019)](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+ - [ES Lint](https://eslint.org/)
 - [WebAssembly (webassembly.org)](https://webassembly.org/)
 - [Brug eventuelt "Can I Use" for at få en ide om support](https://caniuse.com/)  
 
-### Validator
-  - [HTML W3C validator](https://validator.w3.org/)
-  - [CSS W3C validator](https://jigsaw.w3.org/css-validator/)
-  - [Validity - Chrome plugin](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
-### Desktop og mobil webudvikling
-  - [Electron - desktop udvikling](https://electronjs.org/)
-  - [Cordova - mobil udvikling](https://cordova.apache.org/)
-    - [PhoneGap](https://phonegap.com/)  
+## Web udvikling
 
-### Skabeloner
-  - [HTML5 Boilerplate](https://html5boilerplate.com/)
-  - [HTML5Up](https://html5up.net/)
-  - [Githubs .gitignore-filer](https://raw.githubusercontent.com/github/gitignore)
-### Opgaver
-  - [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
-  - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
-  - [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
-  - [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
-  - [CSS Dinner - genial måde at lære at bruge en CSS selector](https://flukeout.github.io/)
-### Diverse ressourcer til web udvikling
-  - [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
-  - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
-  - [Pixabay - gratis billeder](https://pixabay.com/)  
-  - [Pexels - gratis billeder og video](https://www.pexels.com/)
-  - [Burst - gratis billeder](https://burst.shopify.com/)
-  - [Picsum - Temp. billeder](https://picsum.photos/)
-  - [Google fonts](http://www.google.com/fonts)
-  - [SoundBible - gratis lyde](http://soundbible.com/)
-  - [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
-  - [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
-  - [Lorem Ipsum - tekst](https://www.lipsum.com/)
-  - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
-  - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
-  - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
-  - [Netlify - nem SPA hostning baseret på github](https://www.netlify.com/)
-  - [Flexyboxes - editor til FlexBox](https://the-echoplex.net/flexyboxes/)
+### Teknologier
+- [Electron - desktop udvikling](https://electronjs.org/)
+- [Cordova - mobil udvikling](https://cordova.apache.org/)
+  - [PhoneGap](https://phonegap.com/)  
+
+### Diverse værktøjer og ressourcer til web udvikling
+- [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
+- [Curl - HTTP via konsol](https://curl.haxx.se/)  
+- [BrowserStack - UI test](https://www.browserstack.com/)
+- [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
+- [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
+- [Pixabay - gratis billeder](https://pixabay.com/)  
+- [Pexels - gratis billeder og video](https://www.pexels.com/)
+- [Burst - gratis billeder](https://burst.shopify.com/)
+- [Picsum - Temp. billeder](https://picsum.photos/)
+- [Google fonts](http://www.google.com/fonts)
+- [SoundBible - gratis lyde](http://soundbible.com/)
+- [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
+- [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
+- [Lorem Ipsum - tekst](https://www.lipsum.com/)
+- [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
+- [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
+- [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
+- [Netlify - nem SPA hostning baseret på github](https://www.netlify.com/)
+- [Flexyboxes - editor til FlexBox](https://the-echoplex.net/flexyboxes/)
   
-### Eksempler
- - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
- - [Aqarium](https://webglsamples.org/aquarium/aquarium.html)
- - [Sol system](https://codepen.io/juliangarnier/pen/idhuG)
- - [Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
- - [SpinKit](https://tobiasahlin.com/spinkit/)
- - [HoverCSS](http://ianlunn.github.io/Hover)
- - [AnimateCSS](https://daneden.github.io/animate.css/)
- - [Periodisk tabel](https://threejs.org/examples/css3d_periodictable.html)
+### Diverse HTML/CSS/JS/WASM eksempler
+- [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
+- [Aqarium](https://webglsamples.org/aquarium/aquarium.html)
+- [Sol system](https://codepen.io/juliangarnier/pen/idhuG)
+- [Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
+- [SpinKit](https://tobiasahlin.com/spinkit/)
+- [HoverCSS](http://ianlunn.github.io/Hover)
+- [AnimateCSS](https://daneden.github.io/animate.css/)
+- [Periodisk tabel](https://threejs.org/examples/css3d_periodictable.html)
 
-## Service/API
+### Opgaver relateret til web udvikling
+- [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
+- [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
+- [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
+- [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
+- [CSS Dinner - genial måde at lære at bruge en CSS selector](https://flukeout.github.io/)
+
+## Service/API/REST
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
 - [Filltext - simpel tilfældig JSON data](http://www.filltext.com/)
 - [Jsonplaceholder](https://jsonplaceholder.typicode.com/)
@@ -129,15 +121,8 @@ Diverse links relateret til web udvikling
   - [Regioner](https://dawa.aws.dk/Regioner)
   - [Byer](https://dawa.aws.dk/stednavne2?hovedtype=Bebyggelse&undertype=by)
 
-## C#/MVC/Console mv
-- [Visual Studio](https://visualstudio.microsoft.com/vs/) 
-  - [Resharper](https://www.jetbrains.com/resharper/)
-- Visual Studio Extensions
-  - [Snippet designer](https://github.com/mmanela/snippetdesigner)
-- [CS Scripting](https://github.com/filipw/dotnet-script)
-- [ASP.NET Core MVC 3.0 skabelon til VS](https://github.com/devcronberg/aspnetcore_30_vs2019_templates)
-- [Simpel SQLite database til brug i ADO og EF code](https://github.com/devcronberg/undervisning-db-sqlite)
-- [More LINQ](https://github.com/morelinq/MoreLINQ)
+## Grundlæggende IT
+- [CS Demo](https://csdemo.cronberg.dk/numbers.html) - talsystemer, porte mv
 
 ## Programmering og børn
 - [Micro:Bit](https://microbit.org/)
@@ -162,7 +147,6 @@ Diverse links relateret til web udvikling
 - [Version2](https://www.version2.dk/)
 - [videnskab.dk](https://videnskab.dk/)
 - [Node Weekly](https://nodeweekly.com/)
-
 
 ## Historie
 - [IT Historie](http://ithistorie.cronberg.dk)
@@ -208,10 +192,6 @@ Diverse links relateret til web udvikling
 - [CODE: The hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 - [Fortællingen om universet](https://www.arnoldbusck.dk/boeger/astronomi/fortaellingen-om-universet)
 - [Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
-
-## Diverse
-- [Stack Owerflow Developer Survey](https://insights.stackoverflow.com/survey/2019)
-- [CS Demo](https://csdemo.cronberg.dk/numbers.html) - talsystemer, porte mv
 
 ## Michell
 
