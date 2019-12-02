@@ -4,9 +4,9 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 
 ## Udviklingsmijø og plugins/extensions
 - [Visual Studio](https://visualstudio.microsoft.com/vs/) 
- - Visual Studio Extensions
-   - [Resharper](https://www.jetbrains.com/resharper/)
-   - [Snippet designer](https://github.com/mmanela/snippetdesigner)
+  - Visual Studio Extensions
+    - [Resharper](https://www.jetbrains.com/resharper/)
+    - [Snippet designer](https://github.com/mmanela/snippetdesigner)
 - [Visual Studio Code](https://code.visualstudio.com/)
     - [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf)
     - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
@@ -33,6 +33,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 ## Runtime
 - [Node](https://nodejs.org/en/)
 - [.NET Core](https://dotnet.microsoft.com/download)
+- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net472)
+- [Python](https://www.python.org/)
 
 ## Browsere
 - [Chrome](https://www.google.com/chrome/)
@@ -46,6 +48,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Brave](https://brave.com/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/)   
 - [Microsoft Edge](https://www.microsoft.com/da-dk/windows/microsoft-edge)   
+- [Opera](https://www.opera.com/da)
 
 ## Standarder
 - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
