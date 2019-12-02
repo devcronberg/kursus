@@ -1,3 +1,4 @@
+```
 {
 	"Print to console": {
 		"prefix": "cl",
@@ -17,3 +18,4 @@
 		"description": "Simple for loop"
 	}
 }
+```
