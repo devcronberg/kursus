@@ -11,10 +11,11 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
     - Emmet
       - [Eksempler på mest brugte Emmet funktioner](https://github.com/devcronberg/emmet#basic-emmet-abbreviations)
       - [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf)
+    - Snippets
+      - [Snippets JavaScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsjs.md)
+      - [Snippets TypeScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsts.md)
+      - [Snippets MarkDown](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsmd.md)
     - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
-    - [Snippets JavaScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsjs.md)
-    - [Snippets TypeScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsts.md)
-    - [Snippets MarkDown](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsmd.md)
     - Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [extensions.json](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
       - CSharp
       - Prettier
