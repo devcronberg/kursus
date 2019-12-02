@@ -5,8 +5,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 ## Udviklingsmijø og plugins/extensions
 - [Visual Studio](https://visualstudio.microsoft.com/vs/) 
  - Visual Studio Extensions
-  - [Resharper](https://www.jetbrains.com/resharper/)
-  - [Snippet designer](https://github.com/mmanela/snippetdesigner)
+   - [Resharper](https://www.jetbrains.com/resharper/)
+   - [Snippet designer](https://github.com/mmanela/snippetdesigner)
 - [Visual Studio Code](https://code.visualstudio.com/)
     - [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf)
     - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
