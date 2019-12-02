@@ -8,7 +8,9 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
     - [Resharper](https://www.jetbrains.com/resharper/)
     - [Snippet designer](https://github.com/mmanela/snippetdesigner)
 - [Visual Studio Code](https://code.visualstudio.com/)
-    - [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf)
+    - Emmet
+      - [Eksempler på mest brugte Emmet funktioner](https://github.com/devcronberg/emmet#basic-emmet-abbreviations)
+      - [Emmet Cheatsheet](https://docs.emmet.io/cheatsheet-a5.pdf)
     - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
     - [Snippets JavaScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsjs.md)
     - [Snippets TypeScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsts.md)
