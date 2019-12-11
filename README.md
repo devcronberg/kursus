@@ -129,6 +129,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Postnumre](https://dawa.aws.dk/Postnumre)
   - [Regioner](https://dawa.aws.dk/Regioner)
   - [Byer](https://dawa.aws.dk/stednavne2?hovedtype=Bebyggelse&undertype=by)
+- [My JSON Server](https://my-json-server.typicode.com/)
 
 ## Grundlæggende IT
 - [CS Demo](https://csdemo.cronberg.dk/numbers.html) - talsystemer, porte mv
