@@ -76,11 +76,14 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [PhoneGap](https://phonegap.com/)  
 
 ### Diverse værktøjer og ressourcer til web udvikling
+- [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
 - [Curl - HTTP via konsol](https://curl.haxx.se/)  
 - [BrowserStack - UI test](https://www.browserstack.com/)
-- [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
 - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
+- [Lorem Ipsum - tekst](https://www.lipsum.com/)
+- [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
+- [Flexyboxes - editor til FlexBox](https://the-echoplex.net/flexyboxes/)
 - Billeder
   - [Pixabay - gratis billeder](https://pixabay.com/)  
   - [Pexels - gratis billeder og video](https://www.pexels.com/)
@@ -88,18 +91,17 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Picsum - Temp. billeder](https://picsum.photos/)
 - [Google fonts](http://www.google.com/fonts)
 - [SoundBible - gratis lyde](http://soundbible.com/)
-- [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
-- [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
-- [Lorem Ipsum - tekst](https://www.lipsum.com/)
-- [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
-- [Flexyboxes - editor til FlexBox](https://the-echoplex.net/flexyboxes/)
+  Favicon
+  - [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
+  - [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
 - "Legepladser"
   - [Code Sandbox](https://codesandbox.io/)
   - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
   - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
 - Hosting
   - [Netlify - nem SPA hostning baseret på github](https://www.netlify.com/)
-
+- CSS Frameworks
+  - [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
   
 ### Diverse HTML/CSS/JS/WASM eksempler
 - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
