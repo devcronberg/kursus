@@ -91,7 +91,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Picsum - Temp. billeder](https://picsum.photos/)
 - [Google fonts](http://www.google.com/fonts)
 - [SoundBible - gratis lyde](http://soundbible.com/)
-  Favicon
+- Favicon
   - [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
   - [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
 - "Legepladser"
