@@ -81,20 +81,25 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [BrowserStack - UI test](https://www.browserstack.com/)
 - [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
 - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
-- [Pixabay - gratis billeder](https://pixabay.com/)  
-- [Pexels - gratis billeder og video](https://www.pexels.com/)
-- [Burst - gratis billeder](https://burst.shopify.com/)
-- [Picsum - Temp. billeder](https://picsum.photos/)
+- Billeder
+  - [Pixabay - gratis billeder](https://pixabay.com/)  
+  - [Pexels - gratis billeder og video](https://www.pexels.com/)
+  - [Burst - gratis billeder](https://burst.shopify.com/)
+  - [Picsum - Temp. billeder](https://picsum.photos/)
 - [Google fonts](http://www.google.com/fonts)
 - [SoundBible - gratis lyde](http://soundbible.com/)
 - [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
 - [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
 - [Lorem Ipsum - tekst](https://www.lipsum.com/)
 - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
-- [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
-- [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
-- [Netlify - nem SPA hostning baseret på github](https://www.netlify.com/)
 - [Flexyboxes - editor til FlexBox](https://the-echoplex.net/flexyboxes/)
+- "Legepladser"
+  - [Code Sandbox](https://codesandbox.io/)
+  - [Playcode - nem HTML/JS/CSS legeplads](https://playcode.io/)
+  - [Codepen - HTML/CSS/JS (mv) legeplads](https://codepen.io/)
+- Hosting
+  - [Netlify - nem SPA hostning baseret på github](https://www.netlify.com/)
+
   
 ### Diverse HTML/CSS/JS/WASM eksempler
 - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
