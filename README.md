@@ -53,6 +53,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Firefox](https://www.mozilla.org/en-US/firefox/)   
 - [Microsoft Edge](https://www.microsoft.com/da-dk/windows/microsoft-edge)   
 - [Opera](https://www.opera.com/da)
+- [Vivaldi](https://vivaldi.com/da/)
 
 ## Standarder
 - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
