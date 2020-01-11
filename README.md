@@ -6,7 +6,9 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Visual Studio](https://visualstudio.microsoft.com/vs/) 
   - Visual Studio Extensions
     - [Resharper](https://www.jetbrains.com/resharper/)
-    - [Snippet designer](https://github.com/mmanela/snippetdesigner)
+  - Snippets
+    - [Ekstra C# snippets](https://github.com/devcronberg/kursus/blob/master/vs/readme.md)
+    
 - [Visual Studio Code](https://code.visualstudio.com/)
     - Emmet
       - [Eksempler på mest brugte Emmet funktioner](https://github.com/devcronberg/emmet#basic-emmet-abbreviations)
