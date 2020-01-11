@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+      <Title>Static method1 with one argument</Title>
+      <Author>
+      </Author>
+      <Description>
+      </Description>
+      <HelpUrl>
+      </HelpUrl>
+      <Shortcut>method1s</Shortcut>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal Editable="true">
+          <ID>MyMethod</ID>
+          <ToolTip>MyMethod</ToolTip>
+          <Default>MyMethod</Default>
+          <Function>
+          </Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>Type</ID>
+          <ToolTip>Type</ToolTip>
+          <Default>int</Default>
+          <Function>
+          </Function>
+        </Literal>
+        <Literal Editable="true">
+          <ID>args1Name</ID>
+          <ToolTip>args1Name</ToolTip>
+          <Default>a</Default>
+          <Function>
+          </Function>
+        </Literal>
+                <Literal Editable="true">
+          <ID>returntype</ID>
+          <ToolTip>Return type</ToolTip>
+          <Default>void</Default>
+          <Function>
+          </Function>
+        </Literal>
+
+      </Declarations>
+      <Code Language="csharp" Delimiter="$"><![CDATA[public static $returntype$ $MyMethod$($Type$ $args1Name$)
+{
+    $end$
+}]]></Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
