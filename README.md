@@ -53,6 +53,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Web Developer](https://chrispederick.com/work/web-developer/)  
   - [json-formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en)
   - [Copy CSS selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg)
+  - [Autofill](https://chrome.google.com/webstore/detail/autofill/nlmmgnhgdeffjkdckmikfpnddkbbfkkk)
 - [Canary](https://www.google.com/chrome/canary/)
 - [Brave](https://brave.com/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/)   
