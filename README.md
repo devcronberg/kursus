@@ -219,6 +219,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl)
 
 ## Diverse
+  - [Planetarium](https://planetarium.dk/)
+  - [Danmarks Tekniske Museum](https://tekniskmuseum.dk/)
   - [SpaceX's Falcon Heavy rocket land all 3 boosters for the first time](https://www.youtube.com/watch?v=HVqWEoyiaBA)
 
 ## Michell
