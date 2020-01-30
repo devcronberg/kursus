@@ -218,6 +218,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)
   - [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl)
 
+## Diverse
+  - [SpaceX's Falcon Heavy rocket land all 3 boosters for the first time](https://www.youtube.com/watch?v=HVqWEoyiaBA)
 
 ## Michell
 
