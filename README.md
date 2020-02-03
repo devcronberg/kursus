@@ -231,3 +231,5 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
 - [Mikrokonsulenterne](http://www.mikrokonsulenterne.dk)
 - [T-Shirts](http://tshirt.cronberg.dk)
+
+![](http://log.cronberg.dk/logimage?application=kursuslinks)
