@@ -11,7 +11,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
     - [Add New File](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
   - Snippets
     - [Ekstra C# snippets](https://github.com/devcronberg/kursus/blob/master/vs/readme.md)
-    
+  - [.editorconfig brugt på kurser](https://github.com/devcronberg/cskursus-editorconfig)
+      
 - [Visual Studio Code](https://code.visualstudio.com/)
     - Emmet
       - [Eksempler på mest brugte Emmet funktioner](https://github.com/devcronberg/emmet#basic-emmet-abbreviations)
