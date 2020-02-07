@@ -146,6 +146,10 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Byer](https://dawa.aws.dk/stednavne2?hovedtype=Bebyggelse&undertype=by)
 - [My JSON Server](https://my-json-server.typicode.com/)
 
+## Spil og 3D
+- [Unity](https://unity.com/)
+- [MonoGame](http://www.monogame.net/)
+
 ## Automatisering / software robotter
 - [AutoHotkey](https://www.autohotkey.com/)
   - [Lille demo script](https://gist.github.com/devcronberg/9fdd58233c9482644730dc64f494598c#file-autohotkey)
