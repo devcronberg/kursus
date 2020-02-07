@@ -147,7 +147,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [My JSON Server](https://my-json-server.typicode.com/)
 
 ## Automatisering / software robotter
-
+- [AutoHotkey](https://www.autohotkey.com/)
+  - [Lille demo script](https://gist.github.com/devcronberg/9fdd58233c9482644730dc64f494598c#file-autohotkey)
 - [Blue Prism](https://www.blueprism.com)
 - [UI Path](https://www.uipath.com/)
 
