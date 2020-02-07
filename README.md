@@ -1,30 +1,32 @@
-# Kursus
-
 Dette repository indeholder generel info relateret til [mine](#michell) kurser og foredrag. Fejl, rettelser og tilføjelser imødeses meget gerne.
 
-- [Kursus](#kursus)
-  - [Udviklingsmiljø og plugins/extensions](#udviklingsmilj%c3%b8-og-pluginsextensions)
-  - [Runtime](#runtime)
-  - [Browsere](#browsere)
-  - [Standarder](#standarder)
-  - [Web udvikling](#web-udvikling)
-    - [Teknologier](#teknologier)
-    - [Diverse værktøjer og ressourcer til web udvikling](#diverse-v%c3%a6rkt%c3%b8jer-og-ressourcer-til-web-udvikling)
-    - [Diverse HTML/CSS/JS/WASM eksempler](#diverse-htmlcssjswasm-eksempler)
-    - [Opgaver relateret til web udvikling](#opgaver-relateret-til-web-udvikling)
-  - [Service/API/REST](#serviceapirest)
-  - [Spil og 3D](#spil-og-3d)
-  - [Automatisering / software robotter](#automatisering--software-robotter)
-  - [Grundlæggende IT](#grundl%c3%a6ggende-it)
-  - [Programmering og børn](#programmering-og-b%c3%b8rn)
-  - [Bøger](#b%c3%b8ger)
-  - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
-  - [Diverse programmer](#diverse-programmer)
-  - [Historie](#historie)
-  - [Diverse](#diverse)
-  - [Michell](#michell)
+- [Udviklingsmiljø og plugins/extensions](#udviklingsmilj%c3%b8-og-pluginsextensions)
+  - [Visual Studio](#visual-studio)
+  - [Visual Studio Code](#visual-studio-code)
+  - [Andet](#andet)
+- [Runtime](#runtime)
+- [Browsere](#browsere)
+- [Standarder](#standarder)
+- [Web udvikling](#web-udvikling)
+  - [Teknologier](#teknologier)
+  - [Diverse værktøjer og ressourcer til web udvikling](#diverse-v%c3%a6rkt%c3%b8jer-og-ressourcer-til-web-udvikling)
+  - [Diverse HTML/CSS/JS/WASM eksempler](#diverse-htmlcssjswasm-eksempler)
+  - [Opgaver relateret til web udvikling](#opgaver-relateret-til-web-udvikling)
+- [Service/API/REST](#serviceapirest)
+- [Spil og 3D](#spil-og-3d)
+- [Automatisering / software robotter](#automatisering--software-robotter)
+- [Grundlæggende IT](#grundl%c3%a6ggende-it)
+- [Programmering og børn](#programmering-og-b%c3%b8rn)
+- [Bøger](#b%c3%b8ger)
+- [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
+- [Diverse programmer](#diverse-programmer)
+- [Historie](#historie)
+- [Diverse](#diverse)
+- [Michell](#michell)
 
-## Udviklingsmiljø og plugins/extensions
+# Udviklingsmiljø og plugins/extensions
+
+## Visual Studio
 - [Visual Studio](https://visualstudio.microsoft.com/vs/) 
   - Visual Studio Extensions
     - [Resharper](https://www.jetbrains.com/resharper/)
@@ -34,7 +36,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - Snippets
     - [Ekstra C# snippets](https://github.com/devcronberg/kursus/blob/master/vs/readme.md)
   - [.editorconfig brugt på kurser](https://github.com/devcronberg/cskursus-editorconfig)
-      
+
+## Visual Studio Code      
 - [Visual Studio Code](https://code.visualstudio.com/)
     - Emmet
       - [Eksempler på mest brugte Emmet funktioner](https://github.com/devcronberg/emmet#basic-emmet-abbreviations)
@@ -60,15 +63,16 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
       - JavaScript (ES6) code snippets
       - HTMLHint  
       - W3C Validation
+## Andet
 - [Rider](https://www.jetbrains.com/rider/)
 
-## Runtime
+# Runtime
 - [Node](https://nodejs.org/en/)
 - [.NET Core](https://dotnet.microsoft.com/download)
 - [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 - [Python](https://www.python.org/)
 
-## Browsere
+# Browsere
 - [Chrome](https://www.google.com/chrome/)
   - [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
   - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
@@ -84,7 +88,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Opera](https://www.opera.com/da)
 - [Vivaldi](https://vivaldi.com/da/)
 
-## Standarder
+# Standarder
 - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
   - [HTML W3C validator](https://validator.w3.org/)
   - [Validity - Chrome plugin](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
@@ -98,14 +102,14 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [WebAssembly (webassembly.org)](https://webassembly.org/)
 
 
-## Web udvikling
+# Web udvikling
 
-### Teknologier
+## Teknologier
 - [Electron - desktop udvikling](https://electronjs.org/)
 - [Cordova - mobil udvikling](https://cordova.apache.org/)
   - [PhoneGap](https://phonegap.com/)  
 
-### Diverse værktøjer og ressourcer til web udvikling
+## Diverse værktøjer og ressourcer til web udvikling
 - [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
 - [Curl - HTTP via konsol](https://curl.haxx.se/)  
@@ -133,7 +137,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - CSS Frameworks
   - [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
   
-### Diverse HTML/CSS/JS/WASM eksempler
+## Diverse HTML/CSS/JS/WASM eksempler
 - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
 - [Aqarium](https://webglsamples.org/aquarium/aquarium.html)
 - [Sol system](https://codepen.io/juliangarnier/pen/idhuG)
@@ -144,14 +148,14 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Periodisk tabel](https://threejs.org/examples/css3d_periodictable.html)
 - [Blazor spil](https://github.com/AdrienTorris/awesome-blazor#games)
 
-### Opgaver relateret til web udvikling
+## Opgaver relateret til web udvikling
 - [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
 - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
 - [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
 - [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
 - [CSS Dinner - genial måde at lære at bruge en CSS selector](https://flukeout.github.io/)
 
-## Service/API/REST
+# Service/API/REST
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
 - [Filltext - simpel tilfældig JSON data](http://www.filltext.com/)
 - [Jsonplaceholder](https://jsonplaceholder.typicode.com/)
@@ -168,20 +172,20 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Byer](https://dawa.aws.dk/stednavne2?hovedtype=Bebyggelse&undertype=by)
 - [My JSON Server](https://my-json-server.typicode.com/)
 
-## Spil og 3D
+# Spil og 3D
 - [Unity](https://unity.com/)
 - [MonoGame](http://www.monogame.net/)
 
-## Automatisering / software robotter
+# Automatisering / software robotter
 - [AutoHotkey](https://www.autohotkey.com/)
   - [Lille demo script](https://gist.github.com/devcronberg/9fdd58233c9482644730dc64f494598c#file-autohotkey)
 - [Blue Prism](https://www.blueprism.com)
 - [UI Path](https://www.uipath.com/)
 
-## Grundlæggende IT
+# Grundlæggende IT
 - [CS Demo](https://csdemo.cronberg.dk) - talsystemer, porte mv
 
-## Programmering og børn
+# Programmering og børn
 - [Micro:Bit](https://microbit.org/)
 - [AppInventor](https://appinventor.mit.edu/)
 - [Scratch](https://scratch.mit.edu/)
@@ -189,13 +193,13 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Hour of code - DK](https://hourofcode.com/dk)
 
 
-## Bøger
+# Bøger
 - [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
 - [CODE: The hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 - [Fortællingen om universet](https://www.arnoldbusck.dk/boeger/astronomi/fortaellingen-om-universet)
 - [Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
 
-## Nyhedsbreve og blogs
+# Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
@@ -205,7 +209,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [videnskab.dk](https://videnskab.dk/)
 - [Node Weekly](https://nodeweekly.com/)
 
-## Diverse programmer
+# Diverse programmer
 
 - [AutoHotKey](https://www.autohotkey.com/)
   - [Diverse scripts](https://github.com/devcronberg/kursus/tree/master/autohotkey)
@@ -213,7 +217,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Git for Windows](https://git-scm.com/download/win)
 
 
-## Historie
+# Historie
 - [IT Historie](http://ithistorie.cronberg.dk)
 - [computerhistory.org](https://www.computerhistory.org/timeline/)
 - [Dokumentar om opfindelsen af transitoreren](https://www.youtube.com/watch?v=U4XknGqr3Bo)
@@ -251,12 +255,12 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)
   - [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl)
 
-## Diverse
+# Diverse
   - [Planetarium](https://planetarium.dk/)
   - [Danmarks Tekniske Museum](https://tekniskmuseum.dk/)
   - [SpaceX's Falcon Heavy rocket land all 3 boosters for the first time](https://www.youtube.com/watch?v=HVqWEoyiaBA)
 
-## Michell
+# Michell
 
 - Michell Cronberg
   - Instruktør, forfatter, konsulent
