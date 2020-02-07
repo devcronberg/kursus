@@ -153,7 +153,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [UI Path](https://www.uipath.com/)
 
 ## Grundlæggende IT
-- [CS Demo](https://csdemo.cronberg.dk/numbers.html) - talsystemer, porte mv
+- [CS Demo](https://csdemo.cronberg.dk) - talsystemer, porte mv
 
 ## Programmering og børn
 - [Micro:Bit](https://microbit.org/)
