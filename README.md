@@ -146,6 +146,11 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Byer](https://dawa.aws.dk/stednavne2?hovedtype=Bebyggelse&undertype=by)
 - [My JSON Server](https://my-json-server.typicode.com/)
 
+## Automatisering / software robotter
+
+- [Blue Prism](https://www.blueprism.com)
+- [UI Path](https://www.uipath.com/)
+
 ## Grundlæggende IT
 - [CS Demo](https://csdemo.cronberg.dk/numbers.html) - talsystemer, porte mv
 
