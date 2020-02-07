@@ -2,6 +2,28 @@
 
 Dette repository indeholder generel info relateret til [mine](#michell) kurser og foredrag. Fejl, rettelser og tilføjelser imødeses meget gerne.
 
+- [Kursus](#kursus)
+  - [Udviklingsmiljø og plugins/extensions](#udviklingsmilj%c3%b8-og-pluginsextensions)
+  - [Runtime](#runtime)
+  - [Browsere](#browsere)
+  - [Standarder](#standarder)
+  - [Web udvikling](#web-udvikling)
+    - [Teknologier](#teknologier)
+    - [Diverse værktøjer og ressourcer til web udvikling](#diverse-v%c3%a6rkt%c3%b8jer-og-ressourcer-til-web-udvikling)
+    - [Diverse HTML/CSS/JS/WASM eksempler](#diverse-htmlcssjswasm-eksempler)
+    - [Opgaver relateret til web udvikling](#opgaver-relateret-til-web-udvikling)
+  - [Service/API/REST](#serviceapirest)
+  - [Spil og 3D](#spil-og-3d)
+  - [Automatisering / software robotter](#automatisering--software-robotter)
+  - [Grundlæggende IT](#grundl%c3%a6ggende-it)
+  - [Programmering og børn](#programmering-og-b%c3%b8rn)
+  - [Bøger](#b%c3%b8ger)
+  - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
+  - [Diverse programmer](#diverse-programmer)
+  - [Historie](#historie)
+  - [Diverse](#diverse)
+  - [Michell](#michell)
+
 ## Udviklingsmiljø og plugins/extensions
 - [Visual Studio](https://visualstudio.microsoft.com/vs/) 
   - Visual Studio Extensions
