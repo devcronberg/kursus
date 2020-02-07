@@ -2,6 +2,8 @@
 
 Dette repository indeholder generel info relateret til [mine](#michell) kurser og foredrag. Fejl, rettelser og tilføjelser imødeses meget gerne.
 
+## Indhold
+
 - [Udviklingsmiljø og plugins/extensions](#udviklingsmilj%c3%b8-og-pluginsextensions)
   - [Visual Studio](#visual-studio)
   - [Visual Studio Code](#visual-studio-code)
