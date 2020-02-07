@@ -2,7 +2,7 @@
 
 Dette repository indeholder generel info relateret til [mine](#michell) kurser og foredrag. Fejl, rettelser og tilføjelser imødeses meget gerne.
 
-## Udviklingsmijø og plugins/extensions
+## Udviklingsmiljø og plugins/extensions
 - [Visual Studio](https://visualstudio.microsoft.com/vs/) 
   - Visual Studio Extensions
     - [Resharper](https://www.jetbrains.com/resharper/)
