@@ -238,6 +238,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Tycho Brahe](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-tycho-brahe)
   - [Niels Bohr](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk/store-danske-videnskabsfolk-niels-bohr)
   - [Ole Rømer](https://www.dr.dk/tv/se/store-danske-videnskabsfolk-saeson-2/store-danske-videnskabsfolk-saeson-2-2/store-danske-videnskabsfolk-ole-roemer)
+- [Teorien om det hele - Holger Bech Nielsen](https://www.dr.dk/drtv/episode/teorien-om-det-hele-_-med-holger-bech-nielsen_-skabelsen_156941)
 - Diverse navne med links relateret til IT teknologi (primært udvikling)
   - [Joseph Marie Jacquard](https://en.wikipedia.org/wiki/Joseph_Marie_Jacquard)
   - [Herman Hollerith](https://en.wikipedia.org/wiki/Herman_Hollerith)
