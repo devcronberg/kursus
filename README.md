@@ -20,6 +20,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Spil og 3D](#spil-og-3d)
 - [Automatisering / software robotter](#automatisering--software-robotter)
 - [Grundlæggende IT](#grundl%c3%a6ggende-it)
+- [AI/ML](#AI/ML)
 - [Programmering og børn](#programmering-og-b%c3%b8rn)
 - [Bøger](#b%c3%b8ger)
 - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
@@ -188,6 +189,11 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 
 # Grundlæggende IT
 - [CS Demo](https://csdemo.cronberg.dk) - talsystemer, porte mv
+
+# AI/ML
+- [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
+- [The age of AI - YouTube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+
 
 # Programmering og børn
 - [Micro:Bit](https://microbit.org/)
