@@ -20,7 +20,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Spil og 3D](#spil-og-3d)
 - [Automatisering / software robotter](#automatisering--software-robotter)
 - [Grundlæggende IT](#grundl%c3%a6ggende-it)
-- [AI/ML](#AI/ML)
+- [AI/ML](#aiml)
 - [Programmering og børn](#programmering-og-b%c3%b8rn)
 - [Bøger](#b%c3%b8ger)
 - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
