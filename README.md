@@ -141,6 +141,9 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Netlify - nem SPA hostning baseret på github](https://www.netlify.com/)
 - CSS Frameworks
   - [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
+- Skabeloner
+  - [HTML5 Boilerplate](https://html5boilerplate.com/)
+  - [HTML5Up](https://html5up.net/)
   
 ## Diverse HTML/CSS/JS/WASM eksempler
 - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
