@@ -51,8 +51,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
       - [Snippets JavaScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsjs.md)
       - [Snippets TypeScript](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsts.md)
       - [Snippets MarkDown](https://github.com/devcronberg/kursus/blob/master/vsc/snippetsmd.md)
-    - [Keyboard shortcuts](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
-      - [MS ref](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+    - [Keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+      - [Keyboard shortcuts ekstra](https://github.com/devcronberg/kursus/blob/master/vsc/keyboard.md)
     - Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [extensions.json](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
       - CSharp
       - Prettier
