@@ -121,6 +121,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Curl - HTTP via konsol](https://curl.haxx.se/)  
 - [BrowserStack - UI test](https://www.browserstack.com/)
 - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
+- [Awesome WASM](https://github.com/mbasso/awesome-wasm)
 - [Lorem Ipsum - tekst](https://www.lipsum.com/)
 - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
 - [Flexyboxes - editor til FlexBox](https://the-echoplex.net/flexyboxes/)
