@@ -194,6 +194,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 
 # Grundlæggende IT
 - [CS Demo](https://csdemo.cronberg.dk) - talsystemer, porte mv
+- [Software Flaws disaster](https://www.youtube.com/watch?v=XXFc7VfWWgs) - fejl grundet brug af forkerte variabeltyper
 
 # AI/ML
 - [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
