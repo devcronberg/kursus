@@ -68,7 +68,6 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
       - Bracket Pair Colorizer
       - JavaScript (ES6) code snippets
       - HTMLHint  
-      - W3C Validation
 ## Andet
 - [Rider](https://www.jetbrains.com/rider/)
 
@@ -116,6 +115,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [PhoneGap](https://phonegap.com/)  
 
 ## Diverse værktøjer og ressourcer til web udvikling
+- [HTML Cleaner](https://html-cleaner.com/)
 - [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
 - [Curl - HTTP via konsol](https://curl.haxx.se/)  
