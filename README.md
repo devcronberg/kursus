@@ -22,6 +22,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Grundlæggende IT](#grundl%c3%a6ggende-it)
 - [AI/ML](#aiml)
 - [Programmering og børn](#programmering-og-b%c3%b8rn)
+- [undervisning](#undervisning)
 - [Bøger](#b%c3%b8ger)
 - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
 - [Diverse programmer](#diverse-programmer)
