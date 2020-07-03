@@ -26,6 +26,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
 - [Diverse programmer](#diverse-programmer)
 - [Historie](#historie)
+- [Videnskab](#videnskab)
 - [Diverse](#diverse)
 - [Michell](#michell)
 
