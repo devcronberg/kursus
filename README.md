@@ -275,12 +275,13 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)
   - [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl)
 
-# Diverse
-  - [Midlertidigt dokument benyttet i undervisning](https://docs.google.com/document/d/1phdxhAlasZWo2AsmY18Ff-kxzPdyv2bnepINY_B8KzE/edit#)
+# Videnskab  
   - [Planetarium](https://planetarium.dk/)
   - [Danmarks Tekniske Museum](https://tekniskmuseum.dk/)
   - [SpaceX's Falcon Heavy rocket land all 3 boosters for the first time](https://www.youtube.com/watch?v=HVqWEoyiaBA)
 
+# Divese
+  - [Midlertidigt dokument benyttet i undervisning](https://docs.google.com/document/d/1phdxhAlasZWo2AsmY18Ff-kxzPdyv2bnepINY_B8KzE/edit#)
 
 # Michell
 
