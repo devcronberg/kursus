@@ -211,6 +211,11 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Coding Pirates](https://codingpirates.dk/)
 - [Hour of code - DK](https://hourofcode.com/dk)
 
+# Undervisning
+
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Pluralsight](https://www.pluralsight.com/)
+- [Online Computer Science Courses](https://www.computerscienceonline.org/online-computer-science-courses/)
 
 # Bøger
 - [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
