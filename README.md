@@ -115,6 +115,8 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Electron - desktop udvikling](https://electronjs.org/)
 - [Cordova - mobil udvikling](https://cordova.apache.org/)
   - [PhoneGap](https://phonegap.com/)  
+- [MVC](https://docs.microsoft.com/da-dk/aspnet/core/mvc/overview?view=aspnetcore-3.1)
+- [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1)
 
 ## Diverse værktøjer og ressourcer til web udvikling
 - [HTML Cleaner](https://html-cleaner.com/)
@@ -123,6 +125,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Curl - HTTP via konsol](https://curl.haxx.se/)  
 - [BrowserStack - UI test](https://www.browserstack.com/)
 - [Awesome Blazor - A collection of awesome Blazor resources](https://github.com/AdrienTorris/awesome-blazor)
+- [Blazor University](https://blazor-university.com/)
 - [Awesome WASM](https://github.com/mbasso/awesome-wasm)
 - [Lorem Ipsum - tekst](https://www.lipsum.com/)
 - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
