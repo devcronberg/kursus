@@ -118,7 +118,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [MVC](https://docs.microsoft.com/da-dk/aspnet/core/mvc/overview?view=aspnetcore-3.1)
 - [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1)
 
-## Diverse værktøjer og ressourcer til web udvikling
+## Diverse værktøjer og ressourcer til web udvikling (og andet)
 - [HTML Cleaner](https://html-cleaner.com/)
 - [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
@@ -131,6 +131,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
 - [Flexyboxes - editor til FlexBox](https://the-echoplex.net/flexyboxes/)
 - Billeder
+  - [Flickr](https://www.flickr.com/)
   - [Pixabay - gratis billeder](https://pixabay.com/)  
   - [Pexels - gratis billeder og video](https://www.pexels.com/)
   - [Burst - gratis billeder](https://burst.shopify.com/)
