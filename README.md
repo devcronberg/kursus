@@ -223,10 +223,18 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Online Computer Science Courses](https://www.computerscienceonline.org/online-computer-science-courses/)
 
 # Bøger
-- [Weaving the Web](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
-- [CODE: The hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
-- [Fortællingen om universet](https://www.arnoldbusck.dk/boeger/astronomi/fortaellingen-om-universet)
-- [Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
+- [Weaving the Web - Tim Berners Lee](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
+- [Cracking the Coding Interview - Gayle Laakmann McDowell](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850)
+- [Head First Design Patterns - Eric Freeman](https://www.amazon.co.uk/Head-First-Design-Patterns-Freeman/dp/0596007124)
+- [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design - Robert C. Martin](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Design patterns - gang of four](https://www.amazon.co.uk/Design-patterns-elements-reusable-object-oriented/dp/0201633612)
+- [The Pragmatic Programmer - David Thomas](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+- [Bogen om C# 8.0 - Michell Cronberg](http://www.bogenomcsharp.dk/)
+- [CODE: The hidden language of computer hardware and software - Charles Petzold](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [Fortællingen om universet - Tina Ibsen](https://www.arnoldbusck.dk/boeger/astronomi/fortaellingen-om-universet)
+- [Hitchhiker's Guide to the Galaxy - Douglas Adams ](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
+
 
 # Nyhedsbreve og blogs
 - [Hackernewsletter](https://hackernewsletter.com/)
