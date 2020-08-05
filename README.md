@@ -228,6 +228,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Online Computer Science Courses](https://www.computerscienceonline.org/online-computer-science-courses/)
+- [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 
 # Bøger
 - [Weaving the Web - Tim Berners Lee](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
