@@ -23,6 +23,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [AI/ML](#aiml)
 - [Programmering og børn](#programmering-og-b%c3%b8rn)
 - [undervisning](#undervisning)
+- [Elektronik](#elektronik)
 - [Bøger](#b%c3%b8ger)
 - [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
 - [Diverse programmer](#diverse-programmer)
@@ -215,6 +216,12 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Scratch](https://scratch.mit.edu/)
 - [Coding Pirates](https://codingpirates.dk/)
 - [Hour of code - DK](https://hourofcode.com/dk)
+
+# Elektronik 
+- [Tinkercad Circuit Sim](https://www.tinkercad.com/dashboard?type=circuits&collection=designs)
+- [Michells SAP CPU](https://github.com/devcronberg/sap-cpu)
+- [Logisim - simulering af logiske komponenter](http://www.cburch.com/logisim/)
+- [Ben Eaters 8 bit computer](https://eater.net/8bit/)
 
 # Undervisning
 
