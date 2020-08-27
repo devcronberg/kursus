@@ -197,7 +197,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 # Spil og 3D
 - [Unity](https://unity.com/)
 - [MonoGame](http://www.monogame.net/)
-- [OpenMonoGameArt](https://opengameart.org/)
+- [OpenMonoGameArt](https://opengameart.org/) (Se feks [Kenney](https://opengameart.org/users/kenney))
 
 # Automatisering / software robotter
 - [AutoHotkey](https://www.autohotkey.com/)
