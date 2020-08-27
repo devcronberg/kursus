@@ -25,7 +25,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [undervisning](#undervisning)
 - [Elektronik](#elektronik)
 - [Bøger](#b%c3%b8ger)
-- [Nyhedsbreve, blogs og podcasts](#nyhedsbreve-,-blogs, podcasts)
+- [Nyhedsbreve, blogs og podcasts](#nyhedsbreve-blogs-podcast)
 - [Diverse programmer](#diverse-programmer)
 - [Historie](#historie)
 - [Videnskab](#videnskab)
