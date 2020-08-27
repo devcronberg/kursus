@@ -25,7 +25,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [undervisning](#undervisning)
 - [Elektronik](#elektronik)
 - [Bøger](#b%c3%b8ger)
-- [Nyhedsbreve og blogs](#nyhedsbreve-og-blogs)
+- [Nyhedsbreve, blogs og podcasts](#nyhedsbreve-,-blogs, podcasts)
 - [Diverse programmer](#diverse-programmer)
 - [Historie](#historie)
 - [Videnskab](#videnskab)
@@ -246,7 +246,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Hitchhiker's Guide to the Galaxy - Douglas Adams ](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
 
 
-# Nyhedsbreve og blogs
+# Nyhedsbreve, blogs, podcast
 - [Hackernewsletter](https://hackernewsletter.com/)
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
@@ -255,6 +255,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Version2](https://www.version2.dk/)
 - [videnskab.dk](https://videnskab.dk/)
 - [Node Weekly](https://nodeweekly.com/)
+- [Kortsluttet på P1](https://www.dr.dk/radio/p1/kortsluttet)
 
 # Diverse programmer
 
