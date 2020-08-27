@@ -251,7 +251,6 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Frontend Focus](https://frontendfoc.us)
-- [Michells nyhedsbrev](https://nyhedsbrev.cronberg.dk/)
 - [Version2](https://www.version2.dk/)
 - [videnskab.dk](https://videnskab.dk/)
 - [Node Weekly](https://nodeweekly.com/)
@@ -310,9 +309,6 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Danmarks Tekniske Museum](https://tekniskmuseum.dk/)
   - [SpaceX's Falcon Heavy rocket land all 3 boosters for the first time](https://www.youtube.com/watch?v=HVqWEoyiaBA)
 
-# Divese
-  - [Midlertidigt dokument benyttet i undervisning](https://docs.google.com/document/d/1phdxhAlasZWo2AsmY18Ff-kxzPdyv2bnepINY_B8KzE/edit#)
-
 # Michell
 
 - Michell Cronberg
@@ -322,4 +318,3 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [Mikrokonsulenterne](http://www.mikrokonsulenterne.dk)
 - [T-Shirts](http://tshirt.cronberg.dk)
 
-![](http://log.cronberg.dk/logimage?application=kursuslinks)
