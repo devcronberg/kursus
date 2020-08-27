@@ -174,6 +174,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [CSS Dinner - genial måde at lære at bruge en CSS selector](https://flukeout.github.io/)
 
 # Service/API/REST
+- [DR RSS](https://www.dr.dk/nyheder/service/feeds/allenyheder/)
 - [Valutakurser via exchangerate.host](https://exchangerate.host/#/)
 - [Random.org - tilfældige tal via service](https://www.random.org/integers/?num=1&min=1&max=6&col=1&base=10&format=plain&rnd=new)
 - [Filltext - simpel tilfældig JSON data](http://www.filltext.com/)
