@@ -9,6 +9,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
   - [Visual Studio Code](#visual-studio-code)
   - [Andet](#andet)
 - [Runtime](#runtime)
+- [Programmeringssprog](#programmeringssprog)
 - [Browsere](#browsere)
 - [Standarder](#standarder)
 - [Web udvikling](#web-udvikling)
@@ -73,6 +74,19 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
       - HTMLHint  
 ## Andet
 - [Rider](https://www.jetbrains.com/rider/)
+
+# Programmeringssprog
+
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [F#](https://fsharp.org/)
+- [Q#](https://www.microsoft.com/en-us/quantum/development-kit)
+- [JavaScript/EcmaScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
+- [TypsScript](https://www.typescriptlang.org)
+- [Rust](https://www.rust-lang.org/)
+- [R](https://www.r-project.org/)
+- [Python](https://www.python.org/)
+
+- [StackOverflow Survey](https://insights.stackoverflow.com/survey/2020#most-popular-technologies)
 
 # Runtime
 - [Node](https://nodejs.org/en/)
