@@ -86,7 +86,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 - [R](https://www.r-project.org/)
 - [Python](https://www.python.org/)
 
-- [StackOverflow Survey](https://insights.stackoverflow.com/survey/2020#most-popular-technologies)
+- [StackOverflow Survey](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-professional-developers)
 
 # Runtime
 - [Node](https://nodejs.org/en/)
