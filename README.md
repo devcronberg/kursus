@@ -213,6 +213,7 @@ Links til diverse programmeringssprog
 # Spil og 3D
 - [Unity](https://unity.com/)
 - [MonoGame](http://www.monogame.net/)
+  - [Installation VS}(https://docs.monogame.net/articles/getting_started/1_setting_up_your_development_environment_windows.html)
 - [OpenMonoGameArt](https://opengameart.org/) (Se feks [Kenney](https://opengameart.org/users/kenney))
 
 # Automatisering / software robotter
