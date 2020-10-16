@@ -135,6 +135,7 @@ Links til diverse programmeringssprog
 - [Blazor](https://docs.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-3.1)
 
 ## Diverse værktøjer og ressourcer til web udvikling (og andet)
+- [Kæmpe samling af links og ressourcer](https://github.com/bradtraversy/design-resources-for-developers)
 - [HTML Cleaner](https://html-cleaner.com/)
 - [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
@@ -147,12 +148,16 @@ Links til diverse programmeringssprog
 - [Bookmarklet](http://caiorss.github.io/bookmarklets.html)
 - [Flexyboxes - editor til FlexBox](https://the-echoplex.net/flexyboxes/)
 - Billeder
+  - [animaticons](https://animaticons.co/downloads/essential/)
+  - [blush - illustrationer](https://blush.design/)
   - [Flickr](https://www.flickr.com/)
   - [Pixabay - gratis billeder](https://pixabay.com/)  
   - [Pexels - gratis billeder og video](https://www.pexels.com/)
   - [Burst - gratis billeder](https://burst.shopify.com/)
   - [Picsum - Temp. billeder](https://picsum.photos/)
   - [Unsplash](https://unsplash.com/)
+  - [PlaceHolder](https://placeholder.com/)
+- [tablericons](https://tablericons.com/)
 - [Google fonts](http://www.google.com/fonts)
 - [SoundBible - gratis lyde](http://soundbible.com/)
 - Favicon
@@ -166,6 +171,7 @@ Links til diverse programmeringssprog
   - [Netlify - nem SPA hostning baseret på github](https://www.netlify.com/)
 - CSS Frameworks
   - [Sammenligning af CSS Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
+  - [Fomantic](https://fomantic-ui.com/)
 - Skabeloner
   - [HTML5 Boilerplate](https://html5boilerplate.com/)
   - [HTML5Up](https://html5up.net/)
