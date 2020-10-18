@@ -2,36 +2,7 @@
 
 Dette repository indeholder generel info relateret til [mine](#michell) kurser og foredrag. Fejl, rettelser og tilføjelser imødeses meget gerne.
 
-## Indhold
 
-- [Udviklingsmiljø og plugins/extensions](#udviklingsmilj%c3%b8-og-pluginsextensions)
-  - [Visual Studio](#visual-studio)
-  - [Visual Studio Code](#visual-studio-code)
-  - [Andet](#andet)
-- [Runtime](#runtime)
-- [Programmeringssprog](#programmeringssprog)
-- [Browsere](#browsere)
-- [Standarder](#standarder)
-- [Web udvikling](#web-udvikling)
-  - [Teknologier](#teknologier)
-  - [Diverse værktøjer og ressourcer til web udvikling](#diverse-v%c3%a6rkt%c3%b8jer-og-ressourcer-til-web-udvikling)
-  - [Diverse HTML/CSS/JS/WASM eksempler](#diverse-htmlcssjswasm-eksempler)
-  - [Opgaver relateret til web udvikling](#opgaver-relateret-til-web-udvikling)
-- [Service/API/REST](#serviceapirest)
-- [Spil og 3D](#spil-og-3d)
-- [Automatisering / software robotter](#automatisering--software-robotter)
-- [Grundlæggende IT](#grundl%c3%a6ggende-it)
-- [AI/ML](#aiml)
-- [Programmering og børn](#programmering-og-b%c3%b8rn)
-- [undervisning](#undervisning)
-- [Elektronik](#elektronik)
-- [Bøger](#b%c3%b8ger)
-- [Nyhedsbreve, blogs og podcasts](#nyhedsbreve-blogs-podcast)
-- [Diverse programmer](#diverse-programmer)
-- [Historie](#historie)
-- [Videnskab](#videnskab)
-- [Diverse](#diverse)
-- [Michell](#michell)
 
 # Udviklingsmiljø og plugins/extensions
 
