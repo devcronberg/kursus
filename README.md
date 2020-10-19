@@ -186,6 +186,7 @@ Links til diverse programmeringssprog
   - [Byer](https://dawa.aws.dk/stednavne2?hovedtype=Bebyggelse&undertype=by)
 - [My JSON Server](https://my-json-server.typicode.com/)
 - [Unsplash billeder](https://unsplash.com/developers)
+- [RandomUser](https://randomuser.me/)
 
 # Spil og 3D
 - [Unity](https://unity.com/)
