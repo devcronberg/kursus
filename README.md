@@ -51,6 +51,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
 Links til diverse programmeringssprog
 
 - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  - [Se i øvrigt SharpLab](https://sharplab.io)
 - [F#](https://fsharp.org/)
 - [Q#](https://www.microsoft.com/en-us/quantum/development-kit)
 - [JavaScript/EcmaScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm)
