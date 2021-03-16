@@ -111,6 +111,7 @@ Links til diverse programmeringssprog
   - [Radzen UI komponeneter](https://blazor.radzen.com/)
   - [MatBlazor UI komponenter](https://www.matblazor.com/)
   - [MudBlazor UI komponenter](https://mudblazor.com/)
+  - [Blazorise UI](https://blazorise.com/)
    
 ## Diverse værktøjer og ressourcer til web udvikling (og andet)
 - [Kæmpe samling af links og ressourcer til Web UI](https://github.com/bradtraversy/design-resources-for-developers)
