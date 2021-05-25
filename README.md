@@ -220,6 +220,7 @@ Links til diverse programmeringssprog
 
 # Programmering og børn
 - [Micro:Bit](https://microbit.org/)
+  - [Awesome MicroBit](https://github.com/carlosperate/awesome-microbit)
 - [AppInventor](https://appinventor.mit.edu/)
 - [Scratch](https://scratch.mit.edu/)
 - [Coding Pirates](https://codingpirates.dk/)
