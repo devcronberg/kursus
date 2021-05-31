@@ -137,7 +137,9 @@ Links til diverse programmeringssprog
   - [NASA Visible Earth](https://visibleearth.nasa.gov/)
 - [tablericons](https://tablericons.com/)
 - [Google fonts](http://www.google.com/fonts)
-- [SoundBible - gratis lyde](http://soundbible.com/)
+- Lyde
+  - [SoundBible](http://soundbible.com/)
+  - [FreeSound](https://freesound.org/)
 - Favicon
   - [Favicon - favicon baseret på tekst](https://favicon.io/favicon-generator/)
   - [Gauger - favicon baseret på Font Awesome](https://gauger.io/fonticon/)
