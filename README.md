@@ -199,6 +199,11 @@ Links til diverse programmeringssprog
 - [NASA API](https://api.nasa.gov/)
 - [ISS Now](http://api.open-notify.org/)
 
+# Container
+- [Docker](https://www.docker.com/)
+  - [Simpel REST demo](https://github.com/nager/Nager.Date)
+- [Kubernetes](https://kubernetes.io/)
+
 # Spil og 3D
 - [Unity](https://unity.com/)
 - [MonoGame](http://www.monogame.net/)
