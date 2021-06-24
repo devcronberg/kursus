@@ -198,6 +198,7 @@ Links til diverse programmeringssprog
 - [RandomUser](https://randomuser.me/)
 - [NASA API](https://api.nasa.gov/)
 - [ISS Now](http://api.open-notify.org/)
+- [GitHub Repositories](https://api.github.com/users/devcronberg/repos)
 
 # Container
 - [Docker](https://www.docker.com/)
