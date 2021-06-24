@@ -119,6 +119,7 @@ Links til diverse programmeringssprog
 - [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Fiddler - HTTP Proxy](https://www.telerik.com/fiddler)
 - [Curl - HTTP via konsol](https://curl.haxx.se/)  
+- [HTTPBin - test af HTTP](https://httpbin.org)
 - [BrowserStack - UI test](https://www.browserstack.com/)
 - [Awesome WASM](https://github.com/mbasso/awesome-wasm)
 - [Lorem Ipsum - tekst](https://www.lipsum.com/)
