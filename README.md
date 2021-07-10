@@ -251,6 +251,7 @@ Links til diverse programmeringssprog
 
 # Bøger
 - [Weaving the Web - Tim Berners Lee](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
+- [Bøger om arkitektur](https://github.com/mhadidg/software-architecture-books)
 - [Cracking the Coding Interview - Gayle Laakmann McDowell](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850)
 - [Head First Design Patterns - Eric Freeman](https://www.amazon.co.uk/Head-First-Design-Patterns-Freeman/dp/0596007124)
 - [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
