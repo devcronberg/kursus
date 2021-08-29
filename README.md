@@ -176,6 +176,7 @@ Links til diverse programmeringssprog
 - [CSS Dinner - genial måde at lære at bruge en CSS selector](https://flukeout.github.io/)
 
 # Service/API/REST
+- [Public API](https://github.com/public-apis/public-apis)
 - [AirTable](http://www.airtable.com)
 - [DR RSS](https://www.dr.dk/nyheder/service/feeds/allenyheder/)
 - [Valutakurser via exchangerate.host](https://exchangerate.host/#/)
@@ -250,6 +251,7 @@ Links til diverse programmeringssprog
 - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 
 # Bøger
+- [Most influential books for programmers](https://github.com/cs-books/influential-cs-books?)
 - [Weaving the Web - Tim Berners Lee](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
 - [Bøger om arkitektur](https://github.com/mhadidg/software-architecture-books)
 - [Cracking the Coding Interview - Gayle Laakmann McDowell](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850)
