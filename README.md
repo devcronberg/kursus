@@ -176,6 +176,7 @@ Links til diverse programmeringssprog
 - [CSS Dinner - genial måde at lære at bruge en CSS selector](https://flukeout.github.io/)
 
 # Service/API/REST
+- [Free Weather API](https://open-meteo.com/en)
 - [Public API](https://github.com/public-apis/public-apis)
 - [AirTable](http://www.airtable.com)
 - [DR RSS](https://www.dr.dk/nyheder/service/feeds/allenyheder/)
