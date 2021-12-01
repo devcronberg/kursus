@@ -31,18 +31,18 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
     - Plugins til VSC (søg efter dem i VSC eller på [marketplace](https://marketplace.visualstudio.com/search?target=VSCode&sortBy=Installs)). Du kan også finde en [extensions.json](https://github.com/devcronberg/kursus/blob/master/vsc/.vscode/extensions.json), og placere denne under /.vscode. Så dukker extensions op som anbefalede.
       - CSharp
       - Prettier
-      - Markdown all in one
-      - Auto rename tag
+      - HTMLHint  
+      - W3C Web Validator
+      - Markdown all in one      
       - IntelliSense for CSS class names in HTML
       - ESLint
-      - TSLint
-      - W3C Validation
+      - TSLint      
       - Live Server
       - CSSTree validator
       - Visual Studio IntelliCode
       - Bracket Pair Colorizer
       - JavaScript (ES6) code snippets
-      - HTMLHint  
+      
 ## Andet
 - [Rider](https://www.jetbrains.com/rider/)
 
