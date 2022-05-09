@@ -221,6 +221,7 @@ Links til diverse programmeringssprog
   - [Lille demo script](https://gist.github.com/devcronberg/9fdd58233c9482644730dc64f494598c#file-autohotkey)
 - [Blue Prism](https://www.blueprism.com)
 - [UI Path](https://www.uipath.com/)
+- [Power Automate](https://powerautomate.microsoft.com/da-dk/)
 
 # Grundlæggende IT
 - [CS Demo](https://csdemo.cronberg.dk) - talsystemer, porte mv
