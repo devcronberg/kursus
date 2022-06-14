@@ -135,7 +135,7 @@ Links til diverse programmeringssprog
   - [Picsum - Temp. billeder](https://picsum.photos/)
   - [Unsplash](https://unsplash.com/)
   - [PlaceHolder](https://placeholder.com/)
-  - [NASA Visible Earth](https://visibleearth.nasa.gov/)
+  - [NASA Visible Earth](https://visibleearth.nasa.gov/)  
 - [tablericons](https://tablericons.com/)
 - [Google fonts](http://www.google.com/fonts)
 - Lyde
