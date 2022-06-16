@@ -179,6 +179,7 @@ Links til diverse programmeringssprog
 # Service/API/REST
 - [Free Weather API](https://open-meteo.com/en)
 - [Public API](https://github.com/public-apis/public-apis)
+- [Any API](https://any-api.com/)
 - [AirTable](http://www.airtable.com)
 - [DR RSS](https://www.dr.dk/nyheder/service/feeds/allenyheder/)
 - [Valutakurser via exchangerate.host](https://exchangerate.host/#/)
