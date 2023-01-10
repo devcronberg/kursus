@@ -1,12 +1,10 @@
-# Kursus
+# Generelle links
 
-Dette repository indeholder generel info relateret til [mine](#michell) kurser og foredrag. Fejl, rettelser og tilføjelser imødeses meget gerne.
+Dette links er relateret til Michell's kurser og foredrag. Fejl, rettelser og tilføjelser imødeses meget gerne.
 
+## Udviklingsmiljø og plugins/extensions
 
-
-# Udviklingsmiljø og plugins/extensions
-
-## Visual Studio
+### Visual Studio
 - [Visual Studio](https://visualstudio.microsoft.com/vs/) 
   - Visual Studio Extensions
     - [Resharper](https://www.jetbrains.com/resharper/)
@@ -17,7 +15,7 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
     - [Ekstra C# snippets](https://github.com/devcronberg/kursus/blob/master/vs/readme.md)
   - [.editorconfig brugt på kurser](https://github.com/devcronberg/cskursus-editorconfig)
 
-## Visual Studio Code      
+### Visual Studio Code      
 - [Visual Studio Code](https://code.visualstudio.com/)
     - Emmet
       - [Eksempler på mest brugte Emmet funktioner](https://github.com/devcronberg/emmet#basic-emmet-abbreviations)
@@ -43,10 +41,10 @@ Dette repository indeholder generel info relateret til [mine](#michell) kurser o
       - Bracket Pair Colorizer
       - JavaScript (ES6) code snippets
       
-## Andet
+### Andet
 - [Rider](https://www.jetbrains.com/rider/)
 
-# Programmeringssprog
+## Programmeringssprog
 
 Links til diverse programmeringssprog
 
@@ -62,13 +60,13 @@ Links til diverse programmeringssprog
 - [Python](https://www.python.org/)
 - [StackOverflow Survey](https://insights.stackoverflow.com/survey/2020#technology-programming-scripting-and-markup-languages-professional-developers)
 
-# Runtime
+## Runtime
 - [Node](https://nodejs.org/en/)
 - [.NET Core](https://dotnet.microsoft.com/download)
 - [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net472)
 - [Python](https://www.python.org/)
 
-# Browsere
+## Browsere
 - [Chrome](https://www.google.com/chrome/)
   - [Validity](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
   - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
@@ -84,7 +82,7 @@ Links til diverse programmeringssprog
 - [Opera](https://www.opera.com/da)
 - [Vivaldi](https://vivaldi.com/da/)
 
-# Standarder
+## Standarder
 - [HTML (5.1)](https://www.w3.org/TR/?tag=html#w3c_all)
   - [HTML W3C validator](https://validator.w3.org/)
   - [Validity - Chrome plugin](https://chrome.google.com/webstore/detail/validity/bbicmjjbohdfglopkidebfccilipgeif)
@@ -98,9 +96,9 @@ Links til diverse programmeringssprog
 - [WebAssembly (webassembly.org)](https://webassembly.org/)
 
 
-# Web udvikling
+## Web udvikling
 
-## Teknologier
+### Teknologier
 - [Electron - desktop udvikling](https://electronjs.org/)
 - [Cordova - mobil udvikling](https://cordova.apache.org/)
   - [PhoneGap](https://phonegap.com/)  
@@ -113,7 +111,7 @@ Links til diverse programmeringssprog
   - [MudBlazor UI komponenter](https://mudblazor.com/)
   - [Blazorise UI](https://blazorise.com/)
    
-## Diverse værktøjer og ressourcer til web udvikling (og andet)
+### Diverse værktøjer og ressourcer til web udvikling (og andet)
 - [Kæmpe samling af links og ressourcer til Web UI](https://github.com/bradtraversy/design-resources-for-developers)
 - [HTML Cleaner](https://html-cleaner.com/)
 - [Front-end Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
@@ -158,7 +156,7 @@ Links til diverse programmeringssprog
   - [HTML5 Boilerplate](https://html5boilerplate.com/)
   - [HTML5Up](https://html5up.net/)
   
-## Diverse HTML/CSS/JS/WASM eksempler
+### Diverse HTML/CSS/JS/WASM eksempler
 - [Simpel WebApp - HTML/CSS/JS/WASM](https://github.com/devcronberg/sap-webapp)   
 - [Aqarium](https://webglsamples.org/aquarium/aquarium.html)
 - [Sol system](https://codepen.io/juliangarnier/pen/idhuG)
@@ -169,14 +167,14 @@ Links til diverse programmeringssprog
 - [Periodisk tabel](https://threejs.org/examples/css3d_periodictable.html)
 - [Blazor spil](https://github.com/AdrienTorris/awesome-blazor#games)
 
-## Opgaver relateret til web udvikling
+### Opgaver relateret til web udvikling
 - [Opgaver til HTML](https://github.com/devcronberg/undervisning-html-opgaver)
 - [Opgaver til CSS](https://github.com/devcronberg/undervisning-css-opgaver)
 - [Opgaver til JS](https://github.com/devcronberg/undervisning-js-opgaver)
 - [Opgaver til TS](https://github.com/devcronberg/undervisning-ts-opgaver)
 - [CSS Dinner - genial måde at lære at bruge en CSS selector](https://flukeout.github.io/)
 
-# Service/API/REST
+## Service/API/REST
 - [Restdb.io](https://restdb.io/account)
 - [Free Weather API](https://open-meteo.com/en)
 - [Public API](https://github.com/public-apis/public-apis)
@@ -205,35 +203,36 @@ Links til diverse programmeringssprog
 - [ISS Now](http://api.open-notify.org/)
 - [GitHub Repositories](https://api.github.com/users/devcronberg/repos)
 
-# Container
+## Container
 - [Docker](https://www.docker.com/)
   - [Simpel REST demo](https://github.com/nager/Nager.Date)
   - [HTTPBin - HTTP test gennem docker](https://httpbin.org/#/)
 - [Kubernetes](https://kubernetes.io/)
 
-# Spil og 3D
+## Spil og 3D
 - [Unity](https://unity.com/)
 - [MonoGame](http://www.monogame.net/)
   - [Installation VS}(https://docs.monogame.net/articles/getting_started/1_setting_up_your_development_environment_windows.html)
 - [OpenMonoGameArt](https://opengameart.org/) (Se feks [Kenney](https://opengameart.org/users/kenney))
 
-# Automatisering / software robotter
+## Automatisering / software robotter
 - [AutoHotkey](https://www.autohotkey.com/)
   - [Lille demo script](https://gist.github.com/devcronberg/9fdd58233c9482644730dc64f494598c#file-autohotkey)
 - [Blue Prism](https://www.blueprism.com)
 - [UI Path](https://www.uipath.com/)
 - [Power Automate](https://powerautomate.microsoft.com/da-dk/)
 
-# Grundlæggende IT
+## Grundlæggende IT
 - [CS Demo](https://csdemo.cronberg.dk) - talsystemer, porte mv
 - [Software Flaws disaster](https://www.youtube.com/watch?v=XXFc7VfWWgs) - fejl grundet brug af forkerte variabeltyper
 
-# AI/ML
+## AI/ML
+- [Chat GPT](https://chat.openai.com/chat)
 - [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
 - [The age of AI - YouTube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 
 
-# Programmering og børn
+## Programmering og børn
 - [Micro:Bit](https://microbit.org/)
   - [Awesome MicroBit](https://github.com/carlosperate/awesome-microbit)
 - [AppInventor](https://appinventor.mit.edu/)
@@ -241,20 +240,20 @@ Links til diverse programmeringssprog
 - [Coding Pirates](https://codingpirates.dk/)
 - [Hour of code - DK](https://hourofcode.com/dk)
 
-# Elektronik 
+## Elektronik 
 - [Tinkercad Circuit Sim](https://www.tinkercad.com/dashboard?type=circuits&collection=designs)
 - [Michells SAP CPU](https://github.com/devcronberg/sap-cpu)
 - [Logisim - simulering af logiske komponenter](http://www.cburch.com/logisim/)
 - [Ben Eaters 8 bit computer](https://eater.net/8bit/)
 
-# Undervisning
+## Undervisning
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Online Computer Science Courses](https://www.computerscienceonline.org/online-computer-science-courses/)
 - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 
-# Bøger
+## Bøger
 - [Most influential books for programmers](https://github.com/cs-books/influential-cs-books?)
 - [Weaving the Web - Tim Berners Lee](https://www.amazon.com/Weaving-Web-Original-Ultimate-Destiny/dp/006251587X)
 - [Bøger om arkitektur](https://github.com/mhadidg/software-architecture-books)
@@ -270,7 +269,7 @@ Links til diverse programmeringssprog
 - [Hitchhiker's Guide to the Galaxy - Douglas Adams ](https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0575115343)
 
 
-# Nyhedsbreve, blogs, podcast
+## Nyhedsbreve, blogs, podcast
 - [Hackernewsletter](https://hackernewsletter.com/)
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
@@ -280,7 +279,7 @@ Links til diverse programmeringssprog
 - [Node Weekly](https://nodeweekly.com/)
 - [Kortsluttet på P1](https://www.dr.dk/radio/p1/kortsluttet)
 
-# Diverse programmer
+## Diverse programmer
 
 - [AutoHotKey](https://www.autohotkey.com/)
   - [Diverse scripts](https://github.com/devcronberg/kursus/tree/master/autohotkey)
@@ -288,7 +287,7 @@ Links til diverse programmeringssprog
 - [Git for Windows](https://git-scm.com/download/win)
 
 
-# Historie
+## Historie
 - [IT Historie](http://ithistorie.cronberg.dk)
 - [computerhistory.org](https://www.computerhistory.org/timeline/)
 - [Admiral Grace Hopper Explains the Nanosecond](https://www.youtube.com/watch?v=9eyFDBPk4Yw&t=16s)
@@ -329,16 +328,15 @@ Links til diverse programmeringssprog
   - [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)
   - [Ryan Dahl](https://en.wikipedia.org/wiki/Ryan_Dahl)
 
-# Videnskab  
+## Videnskab  
   - [Planetarium](https://planetarium.dk/)
   - [Danmarks Tekniske Museum](https://tekniskmuseum.dk/)
   - [SpaceX's Falcon Heavy rocket land all 3 boosters for the first time](https://www.youtube.com/watch?v=HVqWEoyiaBA)
 
-# Michell
+## Om Michell
 
 - Michell Cronberg
   - Instruktør, forfatter, konsulent
 - [LinkedIn](https://goo.gl/iVjaqF)
-- [Mikrokonsulenterne](http://www.mikrokonsulenterne.dk)
 - [T-Shirts](http://tshirt.cronberg.dk)
 
