@@ -228,6 +228,7 @@ Links til diverse programmeringssprog
 
 ## AI/ML
 - [Chat GPT](https://chat.openai.com/chat)
+- [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
 - [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
 - [The age of AI - YouTube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 
@@ -271,6 +272,7 @@ Links til diverse programmeringssprog
 
 ## Nyhedsbreve, blogs, podcast
 - [Hackernewsletter](https://hackernewsletter.com/)
+- [State of JS](https://stateofjs.com/en-us/)
 - [W3C blog (har også nyhedsbrev)](https://www.w3.org/blog/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Frontend Focus](https://frontendfoc.us)
@@ -285,6 +287,7 @@ Links til diverse programmeringssprog
   - [Diverse scripts](https://github.com/devcronberg/kursus/tree/master/autohotkey)
 - [BareTail - god til log filer](https://www.baremetalsoft.com/baretail/)
 - [Git for Windows](https://git-scm.com/download/win)
+- [MKDocs/Material](https://squidfunk.github.io/mkdocs-material/) - dokumentation mv
 
 
 ## Historie
