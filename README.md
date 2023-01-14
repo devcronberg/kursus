@@ -228,10 +228,11 @@ Links til diverse programmeringssprog
 
 ## AI/ML
 - [Chat GPT](https://chat.openai.com/chat)
+- [Awesome AI](https://github.com/amusi/awesome-ai-awesomeness)
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt)
 - [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
 - [The age of AI - YouTube](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
-
+- [16 Best Free AI Art Generators:](https://dataconomy.com/2022/12/best-free-ai-art-generators-images-trend/)
 
 ## Programmering og børn
 - [Micro:Bit](https://microbit.org/)
